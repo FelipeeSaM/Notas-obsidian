@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "02ccb1b9a1bbd1b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "877f8d5bfaab8bd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b943300419019662",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d583d98f2e7fae54",
+    "type": "split",
+    "children": [
+      {
+        "id": "1521fcd439fe26d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7eda26c96965e958",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b764b178e0ea9df1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "207269dee5ee44e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "94b01836901a00be",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b312243de2ab82e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18ce5412213dec35",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4cbc0879634e674",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7273d5910a31325d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5f452acd17ee7ce3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "b943300419019662",
+  "lastOpenFiles": [
+    "dasda.md",
+    "Teste GESCON/relatório.md",
+    "Teste GESCON/HU01 - relatório de consumo do item.md",
+    "fdfds/Sem tfsffítulo.md",
+    "fdfds",
+    "Sem dasda.md",
+    "Teste GESCON/itens.md",
+    "Teste GESCON/contrato.md",
+    "Teste GESCON/subitens.md",
+    "Teste GESCON/create a link.md",
+    "Teste GESCON/Welcome.md",
+    "Teste GESCON/Sem título.canvas",
+    "Teste GESCON"
+  ]
+}

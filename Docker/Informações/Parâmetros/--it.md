@@ -1,0 +1,1 @@
+**--it**: significa "*interactive*", que faz com que, após a imagem ser baixada e executada, possamos interagir com ela via terminal.
