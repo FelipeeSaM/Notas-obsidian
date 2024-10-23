@@ -4,3 +4,5 @@ Código 0: o comando foi executado corretamente.
 Código 137: o comando foi encerrado abruptamente.
 
 [[Parâmetro]]
+
+Ao entrar no container e digitar [[env]], o terminal mostra as variáveis de ambiente que estão rodando

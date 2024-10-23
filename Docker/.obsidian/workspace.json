@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5fea375a597ba990",
+        "id": "60ad624855b827cc",
         "type": "tabs",
         "children": [
           {
-            "id": "f5fc5b325de77de3",
+            "id": "e521b68d9040cd11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Container/Despausar.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#container",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Container/Despausar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Container/Despausar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,12 +118,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Container/Despausar.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -146,34 +139,35 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f5fc5b325de77de3",
+  "active": "e521b68d9040cd11",
   "lastOpenFiles": [
-    "Container/Criar.md",
-    "Container/Rodar.md",
     "Container/Container.md",
+    "Container/Variáveis.md",
+    "Informações/Notas avulsas.md",
     "Informações/Docker.md",
+    "Container/Copiar.md",
+    "Container/Inspecionar.md",
+    "Container/Iniciar.md",
     "Container/Despausar.md",
-    "Container/Reiniciar.md",
-    "Container/Matar.md",
+    "Container/Criar.md",
+    "Container/Acessar.md",
+    "Container/Logs.md",
+    "Informações/Parâmetros/Parâmetro.md",
+    "Informações/Parâmetros/--it.md",
+    "Informações/Docker cheat sheet.md",
+    "Informações/Parâmetros/-f.md",
+    "Informações/Parâmetros/-P.md",
+    "Container/Porta.md",
+    "Container/Rodar.md",
+    "Container/Renomear.md",
+    "Informações/Parâmetros/--entrypoint.md",
+    "Container/Remover.md",
     "Container/Parar.md",
     "Images/Imagem.md",
-    "Images/Build.md",
-    "Sem título.canvas",
-    "2024-09-25.md",
-    "Informações/Notas avulsas.md",
-    "Container/Renomear.md",
-    "Container/Remover.md",
-    "Container/Pausar.md",
-    "Container/Iniciar.md",
-    "Informações/Docker cheat sheet.md",
-    "Informações/Parâmetros/Parâmetro.md",
-    "Informações/Parâmetros/--force.md",
-    "Images/Salvar.md",
-    "Images/Remover.md",
+    "Diego.md",
     "Images/Listar.md",
-    "Images/Inspecionar.md",
-    "Informações/Parâmetros/-a.md",
-    "Informações/Parâmetros/--it.md",
+    "Images/Salvar.md",
+    "Sem título.canvas",
     "Informações/Parâmetros",
     "Images/Sem título.canvas",
     "Informações",

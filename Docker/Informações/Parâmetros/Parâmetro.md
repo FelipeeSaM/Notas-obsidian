@@ -5,3 +5,7 @@ Parâmetros:
 [[-name]]
 [[-a]]
 [[--force]]
+[[-dt]] 
+[[--entrypoint]] 
+[[-P]] 
+[[-f]]

@@ -7,3 +7,12 @@ docker container run -d –name <algum nome> <imagem>
 -<imagem>: Refere-se à imagem Docker que será utilizada para criar o container (como `nginx`, `ubuntu`, etc.).
 
 Parâmetro -d e -name
+
+
+> [!Também podemos rodar no seguinte modo:]
+> Rodar associando a porta do host à porta do container
+
+Comando:
+```
+docker container run --name <algum nome> -p <porta do host>:<porta do container>
+```
