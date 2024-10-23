@@ -1,1 +1,0 @@
-Imagens do [[docker]] são modelos somente leitura que contêm instruções para criar um contêineres. Uma imagem do Docker é um snapshot ou modelo das bibliotecas e dependências necessárias dentro de um contêiner para que uma aplicação seja executada.

@@ -1,1 +1,0 @@
-Um container no [[docker]] é um ambiente de runtime com todos os componentes necessários, sem a dependência de um sistema operacional, para rodar a partir das informações das imagens. Os contêineres podem rodar localmente, em um servidor ou na nuvem. O que orquestra os contêineres é chamado de *kubernetes*  
