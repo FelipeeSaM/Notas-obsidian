@@ -11,7 +11,7 @@
             "id": "860bd1078e869610",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -141,11 +141,12 @@
   },
   "active": "860bd1078e869610",
   "lastOpenFiles": [
+    "Computação/Sem título.canvas",
+    "Computação/Docker/env.md",
     "2024-10-23.md",
     "Computação/Docker/Container/Container.md",
     "Computação/Docker",
     "Computação",
-    "Computação/Docker/env.md",
     "Computação/Docker/Container/Variáveis.md",
     "Computação/Docker/Informações/Notas avulsas.md",
     "Computação/Docker/Informações/Docker.md",
@@ -168,7 +169,6 @@
     "Computação/Docker/Container/Remover.md",
     "Computação/Docker/Container/Parar.md",
     "Computação/Docker/Images/Imagem.md",
-    "Diego.md",
     "Sem título.canvas",
     "Computação/Docker/Informações/Parâmetros",
     "Images/Sem título.canvas",
