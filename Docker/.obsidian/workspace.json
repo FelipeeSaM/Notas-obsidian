@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#docker",
+                "query": "path:\"Computação/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,7 +191,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2ce7e2297a89104d",
+  "active": "9cb82639df505edf",
   "lastOpenFiles": [
     "Computação/Docker/Container/Listar.md",
     "Computação/Docker/Container/Acessar.md",

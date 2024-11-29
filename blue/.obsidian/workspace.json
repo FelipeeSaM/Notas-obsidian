@@ -12,7 +12,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -35,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -50,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
             }
           },
           {
@@ -58,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -88,7 +96,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -99,7 +109,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
             }
           },
           {
@@ -110,7 +122,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Sumário"
             }
           }
         ]
@@ -138,8 +154,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b943300419019662",
+  "active": "7eda26c96965e958",
   "lastOpenFiles": [
+    "Teste GESCON/contrato.md",
     "dasda.md",
     "Teste GESCON/relatório.md",
     "Teste GESCON/HU01 - relatório de consumo do item.md",
@@ -147,11 +164,10 @@
     "fdfds",
     "Sem dasda.md",
     "Teste GESCON/itens.md",
-    "Teste GESCON/contrato.md",
     "Teste GESCON/subitens.md",
     "Teste GESCON/create a link.md",
     "Teste GESCON/Welcome.md",
     "Teste GESCON/Sem título.canvas",
-    "Teste GESCON"
+    "SEBRAE-MS"
   ]
 }
