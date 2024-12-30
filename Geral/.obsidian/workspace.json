@@ -8,45 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "65ef290d80e5c6f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computação/Docker/Container/Acessar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Acessar"
-            }
-          },
-          {
             "id": "2ce7e2297a89104d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          },
-          {
-            "id": "9ab6179046ae230e",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Computação/Docker/Container/Listar.md",
+                "file": "Computação/Docker/Dockerfile/LABEL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Listar"
+              "title": "LABEL"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Computação/Docker/Dockerfile/LABEL.md"
+              },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de LABEL"
             }
           }
         ],
@@ -187,6 +164,13 @@
   },
   "active": "2ce7e2297a89104d",
   "lastOpenFiles": [
+    "Computação/Docker/Dockerfile/Dockerfile.md",
+    "Computação/Docker/Dockerfile/LABEL.md",
+    "Computação/Docker/Dockerfile/ENV.md",
+    "Computação/Docker/Container/Listar.md",
+    "Computação/Docker/Container/Acessar.md",
+    "Computação/Docker/Dockerfile/ARG.md",
+    "Computação/Docker/Dockerfile/FROM.md",
     "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/Fluxo geral.md",
     "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/Objetivos.md",
     "blue/SEBRAE-MS/Documentos do processo/HUs/HU-004.md",
@@ -206,9 +190,6 @@
     "blue/SEBRAE-MS/Documentos do processo",
     "blue/SEBRAE-MS",
     "blue",
-    "Computação/Docker/Dockerfile/Dockerfile.md",
-    "Computação/Docker/Container/Listar.md",
-    "Computação/Docker/Container/Acessar.md",
     "Computação/Docker/Container/Despausar.md",
     "Computação/Docker/Container/Criar.md",
     "Computação/Docker/Container/Iniciar.md",
@@ -216,8 +197,6 @@
     "Computação/Docker/Container/Rodar.md",
     "Computação/Docker/Container/Copiar.md",
     "Computação/Docker/Container/Container.md",
-    "Computação/Docker/Dockerfile/ARG.md",
-    "Computação/Docker/Dockerfile/FROM.md",
     "Computação/Docker/Dockerfile",
     "Computação/Docker/Container/Porta.md",
     "Computação/Docker/Container/Logs.md",
@@ -227,7 +206,6 @@
     "Computação/Docker/Aula/Aula 1.md",
     "Computação/Docker/Aula",
     "Computação/Docker/Container/Reiniciar.md",
-    "Computação/Docker/Images/Listar.md",
     "Computação/Docker/canvas/Sem título.canvas",
     "Computação/Sem título.canvas",
     "Sem título.canvas",

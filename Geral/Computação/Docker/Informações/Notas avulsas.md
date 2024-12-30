@@ -5,4 +5,4 @@ Código 137: o comando foi encerrado abruptamente.
 
 [[Parâmetro]]
 
-Ao entrar no container e digitar [[env]], o terminal mostra as variáveis de ambiente que estão rodando
+Ao entrar no container e digitar [[ENV]], o terminal mostra as variáveis de ambiente que estão rodando
