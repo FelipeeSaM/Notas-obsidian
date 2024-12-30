@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computação/Docker/Dockerfile/LABEL.md",
+                "file": "Computação/Docker/Dockerfile/RUN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LABEL"
+              "title": "RUN"
+            }
+          },
+          {
+            "id": "0421936d4931ec45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computação/Docker/Dockerfile/ADD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ADD"
             }
           }
         ]
@@ -52,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Computação/\" ",
+                "query": "tag:#docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computação/Docker/Container/Acessar.md",
+                "file": "Computação/Docker/Images/Build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Acessar"
+              "title": "Links inversos para Build"
             }
           },
           {
@@ -112,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computação/Docker/Container/Acessar.md",
+                "file": "Computação/Docker/Images/Build.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Acessar"
+              "title": "Links de saída para Build"
             }
           },
           {
@@ -127,7 +141,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -139,18 +153,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computação/Docker/Dockerfile/LABEL.md"
+                "file": "Computação/Docker/Dockerfile/RUN.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de LABEL"
+              "title": "Sumário de RUN"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,13 +179,19 @@
   },
   "active": "2ce7e2297a89104d",
   "lastOpenFiles": [
+    "Computação/Docker/Dockerfile/WORKDIR.md",
+    "Computação/Docker/Dockerfile/COPY.md",
+    "Computação/Docker/Dockerfile/ADD.md",
+    "Computação/Docker/Dockerfile/RUN.md",
     "Computação/Docker/Dockerfile/Dockerfile.md",
-    "Computação/Docker/Dockerfile/LABEL.md",
+    "Computação/Docker/Dockerfile/ARG.md",
+    "Computação/Docker/Images/Build.md",
+    "Computação/Docker/Images/Imagem.md",
     "Computação/Docker/Dockerfile/ENV.md",
+    "Computação/Docker/Dockerfile/LABEL.md",
+    "Computação/Docker/Dockerfile/FROM.md",
     "Computação/Docker/Container/Listar.md",
     "Computação/Docker/Container/Acessar.md",
-    "Computação/Docker/Dockerfile/ARG.md",
-    "Computação/Docker/Dockerfile/FROM.md",
     "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/Fluxo geral.md",
     "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/Objetivos.md",
     "blue/SEBRAE-MS/Documentos do processo/HUs/HU-004.md",
@@ -196,16 +217,10 @@
     "Computação/Docker/Container/Inspecionar.md",
     "Computação/Docker/Container/Rodar.md",
     "Computação/Docker/Container/Copiar.md",
-    "Computação/Docker/Container/Container.md",
     "Computação/Docker/Dockerfile",
-    "Computação/Docker/Container/Porta.md",
-    "Computação/Docker/Container/Logs.md",
-    "Computação/Docker/Container/Exportar.md",
     "Computação/Docker/dsadas/Sem título.canvas",
     "Computação/Docker/dsadas",
-    "Computação/Docker/Aula/Aula 1.md",
     "Computação/Docker/Aula",
-    "Computação/Docker/Container/Reiniciar.md",
     "Computação/Docker/canvas/Sem título.canvas",
     "Computação/Sem título.canvas",
     "Sem título.canvas",
