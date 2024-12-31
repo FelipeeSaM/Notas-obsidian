@@ -19,9 +19,9 @@ meuusuario
 
 #### Boas práticas
 
-- Evite rodar contêineres como root, sempre que possível.
-- Configure um usuário específico com permissões restritas para maior segurança.
-- Combine `USER` com boas práticas de permissões para diretórios e arquivos.
+- Evitar rodar contêineres como root, sempre que possível.
+- Configurar um usuário específico com permissões restritas para maior segurança.
+- Combinar `USER` com boas práticas de permissões para diretórios e arquivos.
 
 GPT:
 ```# Base da imagem
