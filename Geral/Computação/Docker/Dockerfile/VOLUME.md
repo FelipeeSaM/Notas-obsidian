@@ -16,7 +16,15 @@ Para mapear o volume para um diretório no host:
 $ docker run -v /caminho/no/neu/pc:/var/lib/mysql nome-da-imagem
 ```
 
+Se eu quiser um container temporário:
+Se  não especificar um volume nomeado e usar a opção `--rm` ao executar o contêiner, qualquer dado armazenado no volume anônimo será excluído ao terminar o contêiner.
+Ex:
+```
+docker run --rm -v /caminho/no/container:/dados nome-da-imagem
+```
+
+Quando o contêiner for encerrado, o diretório `/dados` (e o conteúdo armazenado nele) será excluído automaticamente.
 #### Boas práticas
 
 - Use `VOLUME` para dados que precisam ser persistentes, como bancos de dados ou logs.
-- Defina os volumes necessários no Dockerfile ou diretamente ao rodar o contêiner (`-v`).
+- Defina os volumes necessários no Dockerfile ou diretamente ao rodar o contêiner ([[-v]]).
