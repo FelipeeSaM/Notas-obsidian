@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USER.md",
+                "file": "Computação/Docker/Dockerfile/USER.md",
                 "mode": "source",
                 "source": false
               },
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USER.md"
+                "file": "Computação/Docker/Dockerfile/USER.md"
               },
               "icon": "lucide-list",
               "title": "Sumário de USER"
@@ -234,10 +234,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1b6413f0a8ff5b29",
+  "active": "9cb82639df505edf",
   "lastOpenFiles": [
     "Computação/Docker/Dockerfile/Dockerfile.md",
-    "USER.md",
+    "Computação/Docker/Dockerfile/USER.md",
     "Computação/Docker/Dockerfile/VOLUME.md",
     "Computação/Docker/Informações/Parâmetros/-v.md",
     "Computação/Docker/Dockerfile/ENTRYPOINT.md",
