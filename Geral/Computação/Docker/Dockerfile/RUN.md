@@ -10,6 +10,8 @@ WORKDIR /executar
 RUN apt-get update && apt-get install -y <nome-pacotes> <pode-mais-de-um>
 ```
 
+Outro exemplo de parâmetros é o: "RUN apk add ansible", por exemplo.
+
 O -y é para aceitar globalmente (y/n)
 
 Podemos quebrar o comando RUN com \ , de modo:
