@@ -22,21 +22,49 @@
             }
           },
           {
-            "id": "90b916588decd50f",
+            "id": "9338c0a366946db6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computação/Docker/Dockerfile/ENTRYPOINT.md",
+                "file": "Computação/Docker/Dockerfile/Dockerfile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ENTRYPOINT"
+              "title": "Dockerfile"
             }
           },
           {
-            "id": "0421936d4931ec45",
+            "id": "9fc831de0570f663",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computação/Docker/Dockerfile/Dockerfile.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dockerfile"
+            }
+          },
+          {
+            "id": "972289961bc4fb73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computação/Docker/Informações/Parâmetros/-v.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "-v"
+            }
+          },
+          {
+            "id": "90b916588decd50f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computação/Docker/Dockerfile/ENTRYPOINT.md"
+                "file": "Computação/Docker/Informações/Parâmetros/-v.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de ENTRYPOINT"
+              "title": "Sumário de -v"
             }
           }
         ],
@@ -192,12 +220,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0421936d4931ec45",
+  "active": "972289961bc4fb73",
   "lastOpenFiles": [
-    "Computação/Docker/Dockerfile/RUN.md",
-    "Computação/Docker/Dockerfile/ADD.md",
+    "VOLUME.md",
+    "Computação/Docker/Informações/Parâmetros/-v.md",
     "Computação/Docker/Dockerfile/Dockerfile.md",
     "Computação/Docker/Dockerfile/ENTRYPOINT.md",
+    "Computação/Docker/Dockerfile/EXPOSE.md",
+    "Computação/Docker/Dockerfile/CMD.md",
+    "Computação/Docker/Dockerfile/RUN.md",
+    "Computação/Docker/Dockerfile/ADD.md",
     "Computação/Docker/Dockerfile/WORKDIR.md",
     "Computação/Docker/Dockerfile/COPY.md",
     "Computação/Docker/Dockerfile/ARG.md",
@@ -228,10 +260,6 @@
     "blue/SEBRAE-MS",
     "blue",
     "Computação/Docker/Container/Despausar.md",
-    "Computação/Docker/Container/Criar.md",
-    "Computação/Docker/Container/Iniciar.md",
-    "Computação/Docker/Container/Inspecionar.md",
-    "Computação/Docker/Container/Rodar.md",
     "Computação/Docker/Dockerfile",
     "Computação/Docker/dsadas/Sem título.canvas",
     "Computação/Docker/dsadas",
