@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computação/Docker/Dockerfile/USER.md",
+                "file": "Computação/Docker/Volume/Criar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "USER"
+              "title": "Criar"
             }
           },
           {
@@ -210,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computação/Docker/Dockerfile/USER.md"
+                "file": "Computação/Docker/Volume/Criar.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de USER"
+              "title": "Sumário de Criar"
             }
           }
         ],
@@ -234,11 +234,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9cb82639df505edf",
+  "active": "1b6413f0a8ff5b29",
   "lastOpenFiles": [
+    "Computação/Docker/Volume/Volume.md",
+    "Computação/Docker/Volume/Criar.md",
+    "Computação/Docker/Container/Container.md",
+    "Computação/Docker/Container/Acessar.md",
+    "Computação/Docker/Dockerfile/VOLUME.md",
+    "Computação/Docker/Volume",
     "Computação/Docker/Dockerfile/Dockerfile.md",
     "Computação/Docker/Dockerfile/USER.md",
-    "Computação/Docker/Dockerfile/VOLUME.md",
     "Computação/Docker/Informações/Parâmetros/-v.md",
     "Computação/Docker/Dockerfile/ENTRYPOINT.md",
     "Computação/Docker/Dockerfile/EXPOSE.md",
@@ -254,16 +259,12 @@
     "Computação/Docker/Dockerfile/LABEL.md",
     "Computação/Docker/Dockerfile/FROM.md",
     "Computação/Docker/Container/Listar.md",
-    "Computação/Docker/Container/Acessar.md",
     "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/Fluxo geral.md",
     "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/Objetivos.md",
     "blue/SEBRAE-MS/Documentos do processo/HUs/HU-004.md",
     "blue/SEBRAE-MS/Documentos do processo/HUs/HU-003.md",
-    "blue/SEBRAE-MS/Documentos do processo/HUs/HU-002.md",
-    "blue/SEBRAE-MS/Documentos do processo/HUs/HU-001.md",
     "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/Documento espeficicação.canvas",
     "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/03. Especificação - SBMS-FSW-2024-0007 - GESCON_SEF - Requisições Espaço do Fornecedor V2.pdf _manifesto_.pdf",
-    "Computação/Docker/Container/Matar.md",
     "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20241202101751.png",
     "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20241129161819.png",
     "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20241129152921.png",
@@ -277,7 +278,6 @@
     "Computação/Docker/Dockerfile",
     "Computação/Docker/dsadas/Sem título.canvas",
     "Computação/Docker/dsadas",
-    "Computação/Docker/Aula",
     "Computação/Docker/canvas/Sem título.canvas",
     "Computação/Sem título.canvas",
     "Sem título.canvas",

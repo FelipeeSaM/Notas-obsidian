@@ -1,0 +1,1 @@
+Um volume é nada mais, nada menos, do que um espaço que será criado dentro da máquina linux dentro do [[Docker]]. O espaço ocupado pelo volume crescerá quanto mais arquivos forem mandados para dentro dele.

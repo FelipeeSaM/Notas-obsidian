@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlignEndVertical",
       "LiAnnoyed",
       "LiBackpack",
       "LiActivitySquare",
-      "LiAperture",
-      "LiInfo"
+      "LiAperture"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,6 @@
   "Computação/Docker/Informações": "LiInfo",
   "Computação/Docker/Volumes": "LiAperture",
   "Computação/Docker/Dockerfile": "LiBackpack",
-  "blue": "LiAnnoyed"
+  "blue": "LiAnnoyed",
+  "Computação/Docker/Volume": "LiAlignEndVertical"
 }

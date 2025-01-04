@@ -17,7 +17,7 @@ Comandos dockerfile:
  - [[CMD]]
  - [[LABEL]]
  - [[EXPOSE]]
- - [[VOLUME]]
+ - [[Computação/Docker/Dockerfile/VOLUME]]
  - [[USER]]
  - [[ONBLUILD]]
  - [[STOPSIGNAL]]
