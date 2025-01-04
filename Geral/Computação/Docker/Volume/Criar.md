@@ -11,3 +11,5 @@ docker volume create <nome-volume>
 ou
 docker volume create --name <nome-volume>
 ```
+
+Deste modo, conseguimos criar um container independente, como se fosse um "hd à parte", e [[Associar a um container]].

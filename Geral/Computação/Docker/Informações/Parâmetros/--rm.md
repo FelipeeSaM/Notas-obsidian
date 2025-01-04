@@ -1,0 +1,1 @@
+O parâmetro --rm indica que, ao parar o container, ele será removido.

@@ -8,91 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ce7e2297a89104d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computação/Docker/Dockerfile/Dockerfile.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dockerfile"
-            }
-          },
-          {
-            "id": "9338c0a366946db6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computação/Docker/Dockerfile/Dockerfile.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dockerfile"
-            }
-          },
-          {
-            "id": "9fc831de0570f663",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computação/Docker/Dockerfile/Dockerfile.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dockerfile"
-            }
-          },
-          {
-            "id": "972289961bc4fb73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computação/Docker/Dockerfile/Dockerfile.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dockerfile"
-            }
-          },
-          {
-            "id": "1b6413f0a8ff5b29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computação/Docker/Volume/Criar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Criar"
-            }
-          },
-          {
             "id": "90b916588decd50f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computação/Docker/Dockerfile/ENTRYPOINT.md",
+                "file": "Computação/Docker/Volume/Bind-mount.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ENTRYPOINT"
+              "title": "Bind-mount"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computação/Docker/Volume/Criar.md"
+                "file": "Computação/Docker/Volume/Bind-mount.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Criar"
+              "title": "Sumário de Bind-mount"
             }
           }
         ],
@@ -234,18 +163,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1b6413f0a8ff5b29",
+  "active": "90b916588decd50f",
   "lastOpenFiles": [
+    "Computação/Docker/Volume/Remover.md",
+    "Computação/Docker/Volume/Bind-mount.md",
+    "Computação/Docker/Volume/Inspecionar.md",
     "Computação/Docker/Volume/Volume.md",
+    "Computação/Docker/Volume/Associar a um container.md",
     "Computação/Docker/Volume/Criar.md",
+    "Computação/Docker/Dockerfile/ENTRYPOINT.md",
+    "Computação/Docker/Dockerfile/Dockerfile.md",
+    "Computação/Docker/Informações/Parâmetros/--rm.md",
+    "Computação/Docker/Informações/Parâmetros/-v.md",
     "Computação/Docker/Container/Container.md",
     "Computação/Docker/Container/Acessar.md",
     "Computação/Docker/Dockerfile/VOLUME.md",
     "Computação/Docker/Volume",
-    "Computação/Docker/Dockerfile/Dockerfile.md",
     "Computação/Docker/Dockerfile/USER.md",
-    "Computação/Docker/Informações/Parâmetros/-v.md",
-    "Computação/Docker/Dockerfile/ENTRYPOINT.md",
     "Computação/Docker/Dockerfile/EXPOSE.md",
     "Computação/Docker/Dockerfile/CMD.md",
     "Computação/Docker/Dockerfile/RUN.md",
@@ -258,11 +192,6 @@
     "Computação/Docker/Dockerfile/ENV.md",
     "Computação/Docker/Dockerfile/LABEL.md",
     "Computação/Docker/Dockerfile/FROM.md",
-    "Computação/Docker/Container/Listar.md",
-    "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/Fluxo geral.md",
-    "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/Objetivos.md",
-    "blue/SEBRAE-MS/Documentos do processo/HUs/HU-004.md",
-    "blue/SEBRAE-MS/Documentos do processo/HUs/HU-003.md",
     "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/Documento espeficicação.canvas",
     "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/03. Especificação - SBMS-FSW-2024-0007 - GESCON_SEF - Requisições Espaço do Fornecedor V2.pdf _manifesto_.pdf",
     "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20241202101751.png",
