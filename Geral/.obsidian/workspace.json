@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computação/Docker/Network/Network.md",
+                "file": "Computação/Docker/Network/Tipos/Bridge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network"
+              "title": "Bridge"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computação/Docker/Network/Network.md"
+                "file": "Computação/Docker/Network/Tipos/Bridge.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Network"
+              "title": "Sumário de Bridge"
             }
           }
         ],
@@ -165,7 +165,13 @@
   },
   "active": "90b916588decd50f",
   "lastOpenFiles": [
+    "Computação/Docker/Volume/Criar.md",
+    "Computação/Docker/Network/Tipos/Bridge.md",
+    "Computação/Docker/Network/Tipos",
     "Computação/Docker/Network/Criar.md",
+    "Computação/Docker/Network/Remover.md",
+    "Computação/Docker/Network/Inspecionar.md",
+    "Computação/Docker/Network/Associar.md",
     "Computação/Docker/Network/Network.md",
     "Computação/Docker/Network/Listar.md",
     "Computação/Docker/Volume/Volume.md",
@@ -174,7 +180,6 @@
     "Computação/Docker/Volume/Remover.md",
     "Computação/Docker/Volume/Inspecionar.md",
     "Computação/Docker/Volume/Associar a um container.md",
-    "Computação/Docker/Volume/Criar.md",
     "Computação/Docker/Dockerfile/ENTRYPOINT.md",
     "Computação/Docker/Dockerfile/Dockerfile.md",
     "Computação/Docker/Informações/Parâmetros/--rm.md",
@@ -188,11 +193,6 @@
     "Computação/Docker/Dockerfile/CMD.md",
     "Computação/Docker/Dockerfile/RUN.md",
     "Computação/Docker/Dockerfile/ADD.md",
-    "Computação/Docker/Dockerfile/WORKDIR.md",
-    "Computação/Docker/Dockerfile/COPY.md",
-    "Computação/Docker/Dockerfile/ARG.md",
-    "Computação/Docker/Images/Build.md",
-    "Computação/Docker/Images/Imagem.md",
     "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/Documento espeficicação.canvas",
     "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/03. Especificação - SBMS-FSW-2024-0007 - GESCON_SEF - Requisições Espaço do Fornecedor V2.pdf _manifesto_.pdf",
     "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20241202101751.png",
@@ -205,7 +205,6 @@
     "blue/SEBRAE-MS/Documentos do processo",
     "blue/SEBRAE-MS",
     "blue",
-    "Computação/Docker/Dockerfile",
     "Computação/Docker/dsadas/Sem título.canvas",
     "Computação/Docker/canvas/Sem título.canvas",
     "Computação/Sem título.canvas",
