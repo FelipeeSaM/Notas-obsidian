@@ -5,6 +5,8 @@ Por default, caso não especifiquemos um tipo de network no comando, ele criará
 
 Só podemos ter uma network do tipo **host**, e uma network do tipo **null**, pois só temos uma máquina host (máquina virtual linux criada pelo docker), e só temos um ambiente onde não tenha driver network (null).
 
+Um [[Container]] pode se conectar a mais de uma network, basta rodar o comando de [[Conectar]] duas vezes em duas networks diferentes.
+
 GPT:
 ### **Principais Tipos de Redes no Docker**
 

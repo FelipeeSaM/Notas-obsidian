@@ -1,0 +1,1 @@
+Para criar um [[Container]] sem [[Network]], ou seja, totalmente isolado, nós utilizamos o tipo **none**. 
