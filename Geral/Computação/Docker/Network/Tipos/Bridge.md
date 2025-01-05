@@ -1,4 +1,4 @@
-Ao [[Computação/Docker/Network/Criar|Criar]] uma network, ela será o ponto de comunicação entre dois contêineres diferentes que utilizem da mesma rede. Ex de fluxo:
+Ao [[Computação/Docker/Network/Criar|Criar]] uma network, ela será o ponto de comunicação entre dois contêineres diferentes que utilizem da mesma rede, e será criada uma nova faixa de IP exclusiva. Ex de fluxo:
 
 Criação do [[Dockerfile]]:
 ```

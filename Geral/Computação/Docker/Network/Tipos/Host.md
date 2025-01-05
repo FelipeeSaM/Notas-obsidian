@@ -1,0 +1,1 @@
+O comando de [[Network]] tipo host é mais limitado no seu uso e usabilidade. Geralmente é utilizado para monitorar o tráfego de rede da máquina host, pois o container com network tipo **host** compartilha a rede com a máquina host.
