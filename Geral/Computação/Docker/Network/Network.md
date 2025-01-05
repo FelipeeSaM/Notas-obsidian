@@ -3,7 +3,7 @@ No [[Docker]], uma **network** é um recurso que permite que contêineres se com
 As redes no Docker são fundamentais para arquiteturas baseadas em microsserviços, pois garantem conectividade e isolamento entre diferentes serviços ou aplicações em execução.
 Por default, caso não especifiquemos um tipo de network no comando, ele criará com o tipo **bridge**.
 
-Só podemos ter uma network do tipo **host**, e uma network do tipo **null**, pois só temos uma máquina host, e só temos um ambiente onde não tenha driver network (null).
+Só podemos ter uma network do tipo **host**, e uma network do tipo **null**, pois só temos uma máquina host (máquina virtual linux criada pelo docker), e só temos um ambiente onde não tenha driver network (null).
 
 GPT:
 ### **Principais Tipos de Redes no Docker**
