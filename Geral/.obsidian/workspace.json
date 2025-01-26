@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computação/Docker/Compose/Volume.md",
+                "file": "Computação/Docker/Compose/Network.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Volume"
+              "title": "Network"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computação/Docker/Compose/Volume.md"
+                "file": "Computação/Docker/Compose/Network.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Volume"
+              "title": "Sumário de Network"
             }
           }
         ],
@@ -165,9 +165,10 @@
   },
   "active": "bb29b4021425c5b9",
   "lastOpenFiles": [
-    "Computação/Docker/Compose/Criando.md",
     "Computação/Docker/Compose/Volume.md",
+    "Computação/Docker/Compose/Network.md",
     "Computação/Docker/Compose/Docker-compose.md",
+    "Computação/Docker/Compose/Criando.md",
     "Computação/Docker/Compose/Buildando.md",
     "Sem título.canvas",
     "Computação/Docker/Compose/Comandos.md",
@@ -194,7 +195,6 @@
     "Computação/Docker/Volume/Remover.md",
     "Computação/Docker/Volume/Inspecionar.md",
     "Computação/Docker/Volume/Associar a um container.md",
-    "Computação/Docker/Dockerfile/ENTRYPOINT.md",
     "Computação/Docker/Volume",
     "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/Documento espeficicação.canvas",
     "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/03. Especificação - SBMS-FSW-2024-0007 - GESCON_SEF - Requisições Espaço do Fornecedor V2.pdf _manifesto_.pdf",

@@ -1,4 +1,4 @@
-Para desconectar um container de uma [[Network]], rodamos o comando:
+Para desconectar um container de uma [[Computação/Docker/Network/Network]], rodamos o comando:
 ```
 docker network disconnect <nome/tipo-network> <nome-container>
 ```

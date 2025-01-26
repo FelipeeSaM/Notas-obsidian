@@ -1,1 +1,1 @@
-Para criar um [[Container]] sem [[Network]], ou seja, totalmente isolado, nós utilizamos o tipo **none**. 
+Para criar um [[Container]] sem [[Computação/Docker/Network/Network]], ou seja, totalmente isolado, nós utilizamos o tipo **none**. 

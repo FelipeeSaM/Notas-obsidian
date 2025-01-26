@@ -1,4 +1,4 @@
-Para criar uma [[Network]], o comando é:
+Para criar uma [[Computação/Docker/Network/Network]], o comando é:
 ```
 docker network create -d <tipo> <nome-da-rede>
 ```
