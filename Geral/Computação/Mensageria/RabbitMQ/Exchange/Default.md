@@ -1,0 +1,1 @@
+É uma [[Exchanges]] de tipo Direct, só que sem nome ( " " ), onde todas as filas criadas se registram com a [[Routing keys]] igual ao seu nome. Você pode, também dizer que a sua routing key é "criar-cliente", com a exchange do tipo default, então o nome da fila automaticamente será "criar-cliente".

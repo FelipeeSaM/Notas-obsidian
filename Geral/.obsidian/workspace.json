@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computação/Mensageria/RabbitMQ/Exchanges.md",
+                "file": "Computação/Mensageria/RabbitMQ/Exchange/Exchanges.md",
                 "mode": "source",
                 "source": false
               },
@@ -51,16 +51,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computação/Mensageria/RabbitMQ/Exchanges.md",
+                "file": "Computação/Mensageria/RabbitMQ/Exchange/Exchanges.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Exchanges"
             }
+          },
+          {
+            "id": "c8844a043e628a04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computação/Mensageria/RabbitMQ/Exchange/Direct.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Direct"
+            }
+          },
+          {
+            "id": "54a2f2d530ca8487",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computação/Mensageria/RabbitMQ/Exchange/Fanout.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fanout"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -179,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computação/Mensageria/RabbitMQ/Exchanges.md",
+                "file": "Computação/Mensageria/RabbitMQ/Exchange/Fanout.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Exchanges"
+              "title": "Sumário de Fanout"
             }
           }
         ],
@@ -206,12 +234,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "07ff7ed670dff050",
+  "active": "54a2f2d530ca8487",
   "lastOpenFiles": [
+    "Computação/Mensageria/RabbitMQ/Exchange/Default.md",
+    "Computação/Mensageria/RabbitMQ/Exchange/Direct.md",
+    "Computação/Mensageria/RabbitMQ/Exchange/Exchanges.md",
+    "Computação/Mensageria/RabbitMQ/Exchange/Fanout.md",
+    "Computação/Mensageria/RabbitMQ/Exchange/Topic.md",
+    "Computação/Mensageria/RabbitMQ/Exchange",
     "Computação/Mensageria/RabbitMQ/Filas.md",
     "Computação/Mensageria/RabbitMQ/Mensagens.md",
     "Computação/Mensageria/RabbitMQ/Routing keys.md",
-    "Computação/Mensageria/RabbitMQ/Exchanges.md",
     "Computação/Mensageria/RabbitMQ/Arquitetura.md",
     "Computação/Mensageria/RabbitMQ/Bindings.md",
     "Computação/Mensageria/RabbitMQ/RabbitMQ.md",
@@ -235,10 +268,6 @@
     "Computação/Docker/Compose/Docker-compose.md",
     "Computação/Docker/Compose/Criando.md",
     "Computação/Docker/Compose/Comandos.md",
-    "Computação/Docker/Compose/Buildando.md",
-    "Computação/Docker/Images/Build.md",
-    "Computação/Docker/Images/Inspecionar.md",
-    "Computação/Docker/Images/Listar.md",
     "Sem título.canvas",
     "Computação/Docker/Compose",
     "Computação/Docker/Network/Tipos",
@@ -249,7 +278,6 @@
     "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20241202101751.png",
     "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20241129161819.png",
     "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20241129152921.png",
-    "blue/SEBRAE-MS/Documentos do processo/Imagens",
     "Computação/Docker/dsadas/Sem título.canvas",
     "Computação/Docker/canvas/Sem título.canvas",
     "Computação/Sem título.canvas",

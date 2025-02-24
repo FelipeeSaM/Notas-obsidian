@@ -1,0 +1,1 @@
+É uma [[Exchanges]] que ignora a [[Routing keys]] da mensagem e distribui esta mensagem para todas as filas registradas, independentemente das routing keys ou padrões definidos.
