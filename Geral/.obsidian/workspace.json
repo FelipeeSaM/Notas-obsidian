@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computação/Mensageria/RabbitMQ/Exchange/Fanout.md",
+                "file": "Computação/Mensageria/RabbitMQ/RabbitMQ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fanout"
+              "title": "RabbitMQ"
             }
           }
         ],
@@ -207,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computação/Mensageria/RabbitMQ/Exchange/Fanout.md",
+                "file": "Computação/Mensageria/RabbitMQ/RabbitMQ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Fanout"
+              "title": "Sumário de RabbitMQ"
             }
           }
         ],
@@ -236,25 +236,26 @@
   },
   "active": "54a2f2d530ca8487",
   "lastOpenFiles": [
-    "Computação/Mensageria/RabbitMQ/Exchange/Default.md",
-    "Computação/Mensageria/RabbitMQ/Exchange/Direct.md",
-    "Computação/Mensageria/RabbitMQ/Exchange/Exchanges.md",
-    "Computação/Mensageria/RabbitMQ/Exchange/Fanout.md",
-    "Computação/Mensageria/RabbitMQ/Exchange/Topic.md",
-    "Computação/Mensageria/RabbitMQ/Exchange",
-    "Computação/Mensageria/RabbitMQ/Filas.md",
+    "Computação.md",
+    "Computação/Mensageria/RabbitMQ/RabbitMQ.md",
     "Computação/Mensageria/RabbitMQ/Mensagens.md",
+    "Computação/Mensageria/RabbitMQ/Exchange/Exchanges.md",
     "Computação/Mensageria/RabbitMQ/Routing keys.md",
     "Computação/Mensageria/RabbitMQ/Arquitetura.md",
     "Computação/Mensageria/RabbitMQ/Bindings.md",
-    "Computação/Mensageria/RabbitMQ/RabbitMQ.md",
+    "Computação/Mensageria/RabbitMQ/Filas.md",
+    "Computação/Mensageria/Serviços.md",
+    "Computação/Mensageria/RabbitMQ/Exchange/Fanout.md",
+    "Computação/Mensageria/RabbitMQ/Exchange/Default.md",
+    "Computação/Mensageria/RabbitMQ/Exchange/Direct.md",
+    "Computação/Mensageria/RabbitMQ/Exchange/Topic.md",
+    "Computação/Mensageria/RabbitMQ/Exchange",
     "Computação/Computação/Computação.md",
     "Computação/Mensageria/Informações/O que é.md",
     "Computação/Docker/Informações/Docker.md",
     "Computação/Mensageria/Informações",
     "Computação/Computação",
     "Computação/Mensageria/Informações.md",
-    "Computação.md",
     "Computação/Computação.md",
     "blue/SEBRAE-MS/Documentos do processo/HUs/HU-001.md",
     "Computação/Mensageria/RabbitMQ",
@@ -267,7 +268,6 @@
     "Computação/Docker/Compose/Network.md",
     "Computação/Docker/Compose/Docker-compose.md",
     "Computação/Docker/Compose/Criando.md",
-    "Computação/Docker/Compose/Comandos.md",
     "Sem título.canvas",
     "Computação/Docker/Compose",
     "Computação/Docker/Network/Tipos",

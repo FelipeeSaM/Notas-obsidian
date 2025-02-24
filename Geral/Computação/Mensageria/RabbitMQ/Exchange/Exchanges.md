@@ -3,4 +3,4 @@ Existe quatro tipos de exchanges:
 - [[Direct]];
 - [[Default]];
 - [[Topic]];
-- [[Fanout]];
+- [[Fanout]]
