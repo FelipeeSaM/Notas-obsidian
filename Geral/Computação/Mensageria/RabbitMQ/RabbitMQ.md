@@ -12,6 +12,11 @@ Docker:
 docker run -d --name rabbitMq -p 5672:5672 -p 15672:15672 rabbitmq:3-management
 ```
 
+Depois acesso o 
+```
+localhost:15672/#/
+```
+
 #### Usuário e senha padrões:
 guest
 guest
