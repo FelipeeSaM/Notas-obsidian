@@ -4,91 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "997b619cd167d77a",
+        "id": "ba78118acc0e2949",
         "type": "tabs",
         "children": [
           {
-            "id": "4a3ae69c3af04076",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          },
-          {
-            "id": "d6843bbac3bc9ab8",
+            "id": "0ddcdf93ae074c7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computação/Mensageria/RabbitMQ/Exchange/Exchanges.md",
+                "file": "Computação/Mensageria/Publish-subscribe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exchanges"
-            }
-          },
-          {
-            "id": "6350da531c304084",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computação/Mensageria/RabbitMQ/Arquitetura.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arquitetura"
-            }
-          },
-          {
-            "id": "07ff7ed670dff050",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computação/Mensageria/RabbitMQ/Exchange/Exchanges.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exchanges"
-            }
-          },
-          {
-            "id": "c8844a043e628a04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computação/Mensageria/RabbitMQ/Exchange/Direct.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Direct"
-            }
-          },
-          {
-            "id": "54a2f2d530ca8487",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computação/Mensageria/RabbitMQ/RabbitMQ.client.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RabbitMQ.client"
+              "title": "Publish-subscribe"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,10 +53,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "docker",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -207,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computação/Mensageria/RabbitMQ/RabbitMQ.client.md",
+                "file": "Computação/Mensageria/Publish-subscribe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de RabbitMQ.client"
+              "title": "Sumário de Publish-subscribe"
             }
           }
         ],
@@ -234,8 +167,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "54a2f2d530ca8487",
+  "active": "0ddcdf93ae074c7c",
   "lastOpenFiles": [
+    "Computação/Mensageria/RabbitMQ/RabbitMQ.md",
+    "Computação/Mensageria/Publish-subscribe.md",
+    "Computação/Mensageria/RabbitMQ/Mensagens.md",
+    "Computação/Docker/Container/Iniciar.md",
+    "Computação/Mensageria/RabbitMQ/Filas.md",
+    "Computação/Mensageria/RabbitMQ/Bindings.md",
+    "Computação/Mensageria/RabbitMQ/Arquitetura.md",
+    "Computação/Mensageria/RabbitMQ/RabbitMQ.client.md",
     "Computação/Docker/Container/Parar.md",
     "Computação/Docker/Images/Build.md",
     "Computação/Docker/Images/Imagem.md",
@@ -243,15 +184,9 @@
     "Computação/Docker/Images/Listar.md",
     "Computação/Docker/Images/Salvar.md",
     "Computação/Docker/Images/Remover.md",
-    "Computação/Mensageria/RabbitMQ/RabbitMQ.client.md",
-    "Computação/Mensageria/RabbitMQ/RabbitMQ.md",
     "Computação.md",
-    "Computação/Mensageria/RabbitMQ/Mensagens.md",
     "Computação/Mensageria/RabbitMQ/Exchange/Exchanges.md",
     "Computação/Mensageria/RabbitMQ/Routing keys.md",
-    "Computação/Mensageria/RabbitMQ/Arquitetura.md",
-    "Computação/Mensageria/RabbitMQ/Bindings.md",
-    "Computação/Mensageria/RabbitMQ/Filas.md",
     "Computação/Mensageria/Serviços.md",
     "Computação/Mensageria/RabbitMQ/Exchange/Fanout.md",
     "Computação/Mensageria/RabbitMQ/Exchange/Default.md",
@@ -263,8 +198,6 @@
     "Computação/Docker/Informações/Docker.md",
     "Computação/Mensageria/Informações",
     "Computação/Computação",
-    "Computação/Mensageria/Informações.md",
-    "Computação/Computação.md",
     "Computação/Mensageria/RabbitMQ",
     "Computação/Mensageria",
     "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20241129151416.png",
