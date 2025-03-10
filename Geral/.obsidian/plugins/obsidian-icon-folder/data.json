@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiApple",
+      "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "LiLanguages",
       "LiInfo",
-      "LiComputer",
-      "LiAlertCircle",
-      "LiMessageCircle",
-      "LiMessagesSquare"
+      "LiComputer"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -45,5 +45,7 @@
   "Computação/Docker/Network": "LiNetwork",
   "Computação/Docker/Compose": "LiAmpersand",
   "Computação/Mensageria": "LiMessagesSquare",
-  "Computação/Mensageria/RabbitMQ": "LiMessageCircle"
+  "Computação/Mensageria/RabbitMQ": "LiMessageCircle",
+  "Idiomas": "LiLanguages",
+  "Idiomas/Inglês": "LiApple"
 }

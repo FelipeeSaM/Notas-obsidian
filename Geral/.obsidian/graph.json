@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "Docker",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "",
+      "query": "path:Idiomas  ",
       "color": {
         "a": 1,
         "rgb": 11657298

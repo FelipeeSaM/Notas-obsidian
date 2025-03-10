@@ -4,5 +4,6 @@
 #### Os principais recursos:
 - Controle completo;
 - Performance;
-- Suporte a todos os protocolos RabbitMQ;
+- Suporte a todos os protocolos [[RabbitMQ]];
+
 
