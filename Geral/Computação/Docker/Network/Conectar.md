@@ -1,4 +1,4 @@
-Para conectar uma [[Network]] de um container, rodamos o comando:
+Para conectar uma [[Computação/Docker/Network/Network]] de um container, rodamos o comando:
 ```
 docker network connect <nome/tipo-da-network> <nome-container>
 ```

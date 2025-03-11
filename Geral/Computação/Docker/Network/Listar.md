@@ -1,4 +1,4 @@
-Para listar uma [[Network]], 
+Para listar uma [[Computação/Docker/Network/Network]], 
 O comando:
 ```
 docker network ls

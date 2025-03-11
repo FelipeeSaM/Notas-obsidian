@@ -1,4 +1,4 @@
-Para associar um [[Container]] a uma [[Network]], usamos o comando:
+Para associar um [[Container]] a uma [[Computação/Docker/Network/Network]], usamos o comando:
 ```
 docker container run --dt --name <nome-container> --entrypoint /bin/sh --network <nome-da-network> <imagem>
 ```

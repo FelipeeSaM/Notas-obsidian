@@ -13,7 +13,7 @@ docker image build -t alpine:network .
 ```
 O '.' acima significa que a imagem usará o diretório atual como contexto.
 
-Criação da [[Network]]:
+Criação da [[Computação/Docker/Network/Network]]:
 ```
 docker network create minha-rede-bridge
 ```
