@@ -11,17 +11,26 @@
             "id": "bb29b4021425c5b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "7f4845562d97b18e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "Computação/Docker/Compose/Buildando.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.8.4"
               },
-              "icon": "lucide-file",
-              "title": "Buildando"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +49,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -52,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "copy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,10 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computação/Docker/Compose/Buildando.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Buildando"
+              "title": "Sumário"
             }
           }
         ],
@@ -163,15 +175,25 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bb29b4021425c5b9",
+  "active": "7f4845562d97b18e",
   "lastOpenFiles": [
-    "Computação/Docker/Compose/Comandos.md",
+    "blue/SEBRAE-MS/Documentos do processo/HUs/HU-004.md",
+    "blue/SEBRAE-MS/Documentos do processo/HUs/HU-002.md",
+    "blue/SEBRAE-MS/Documentos do processo/HUs/HU-001.md",
+    "Computação/Docker/Images/Inspecionar.md",
+    "Computação/Docker/Dockerfile/WORKDIR.md",
+    "Computação/Docker/Container/Acessar.md",
+    "Computação/Docker/Dockerfile/ENV.md",
     "Computação/Docker/Compose/Criando.md",
+    "Computação/Docker/Compose/Comandos.md",
+    "Computação/Docker/Dockerfile/COPY.md",
+    "Computação/Docker/Dockerfile/ADD.md",
     "Computação/Docker/Compose/Buildando.md",
+    "Computação/Docker/Compose/Docker-compose.md",
+    "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/03. Especificação - SBMS-FSW-2024-0007 - GESCON_SEF - Requisições Espaço do Fornecedor V2.pdf _manifesto_.pdf",
+    "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/Documento espeficicação.canvas",
     "Computação/Docker/Dockerfile/ARG.md",
     "Computação/Docker/Dockerfile/CMD.md",
-    "Computação/Docker/Dockerfile/ADD.md",
-    "Computação/Docker/Compose/Docker-compose.md",
     "Computação/Docker/Network/Network.md",
     "Computação/Docker/Compose",
     "Computação/Docker/Network/Desconectar.md",
@@ -185,18 +207,8 @@
     "Computação/Docker/Network/Criar.md",
     "Computação/Docker/Network/Remover.md",
     "Computação/Docker/Network/Inspecionar.md",
-    "Computação/Docker/Network/Listar.md",
-    "Computação/Docker/Volume/Volume.md",
-    "Computação/Docker/Volume/Bind-mount.md",
     "Computação/Docker/Network",
-    "Computação/Docker/Volume/Remover.md",
-    "Computação/Docker/Volume/Inspecionar.md",
-    "Computação/Docker/Volume/Associar a um container.md",
-    "Computação/Docker/Dockerfile/ENTRYPOINT.md",
-    "Computação/Docker/Dockerfile/Dockerfile.md",
     "Computação/Docker/Volume",
-    "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/Documento espeficicação.canvas",
-    "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/03. Especificação - SBMS-FSW-2024-0007 - GESCON_SEF - Requisições Espaço do Fornecedor V2.pdf _manifesto_.pdf",
     "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20241202101751.png",
     "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20241129161819.png",
     "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20241129152921.png",
