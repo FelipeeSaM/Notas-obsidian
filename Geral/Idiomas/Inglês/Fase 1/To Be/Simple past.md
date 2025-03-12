@@ -26,3 +26,4 @@ Para fazer perguntas no passado, basta inverter a ordem do sujeito e do verbo **
 - **She was** at the party. (Ela estava na festa.)
 - **They were** at home. (Eles estavam em casa.)
 - **You were** late. (Você estava atrasado.)
+
