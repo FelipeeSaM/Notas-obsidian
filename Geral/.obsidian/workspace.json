@@ -4,24 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "3c58ff16815486e0",
+        "id": "bb1d4fe865dd1d6c",
         "type": "tabs",
         "children": [
           {
-            "id": "9fc6d470cbf6ecfd",
+            "id": "bb29b4021425c5b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "7f4845562d97b18e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "Idiomas/Inglês/Fase 1/To Be/Simple past.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.8.4"
               },
-              "icon": "lucide-file",
-              "title": "Simple past"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,10 +62,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "copy",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -140,13 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Idiomas/Inglês/Fase 1/To Be/Simple past.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Simple past"
+              "title": "Sumário"
             }
           }
         ],
@@ -167,53 +175,53 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9fc6d470cbf6ecfd",
+  "active": "9cb82639df505edf",
   "lastOpenFiles": [
-    "2025-03-10.md",
-    "Idiomas/Inglês/Fase 1/To Be/Simple past.md",
     "Idiomas/Inglês/Fase 1/To Be/Simple present.md",
-    "Computação/Docker/Dockerfile/Dockerfile.md",
-    "Computação/Docker/Network/Tipos/Bridge.md",
-    "Computação/Docker/Images/Imagem.md",
-    "Computação/Docker/Container/Container.md",
-    "Computação/Docker/Network/Criar.md",
-    "Idiomas/Inglês/Inglês.md",
+    "Idiomas/Inglês/Fase 1/To Be/Simple past.md",
     "Idiomas/Inglês/Fase 1/To Be",
+    "Idiomas/Inglês/Inglês.md",
     "Idiomas/Inglês/Fase 1",
-    "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/Documento espeficicação.canvas",
-    "Computação/Mensageria/RabbitMQ/RabbitMQ.client.md",
-    "Computação/Mensageria/RabbitMQ/RabbitMQ.md",
     "Idiomas/Inglês",
     "Idiomas",
-    "Computação/Mensageria/Publish-subscribe.md",
-    "Computação/Mensageria/RabbitMQ/Mensagens.md",
-    "Computação/Docker/Container/Iniciar.md",
-    "Computação/Mensageria/RabbitMQ/Filas.md",
-    "Computação/Mensageria/RabbitMQ/Bindings.md",
-    "Computação/Mensageria/RabbitMQ/Arquitetura.md",
-    "Computação/Docker/Container/Parar.md",
-    "Computação/Docker/Images/Build.md",
-    "Computação/Docker/Images/Inspecionar.md",
-    "Computação/Docker/Images/Listar.md",
-    "Computação/Docker/Images/Salvar.md",
-    "Computação/Docker/Images/Remover.md",
-    "Computação.md",
+    "Computação/Mensageria/RabbitMQ/Exchange/Topic.md",
     "Computação/Mensageria/RabbitMQ/Exchange/Exchanges.md",
+    "Computação/Mensageria/RabbitMQ/Exchange/Fanout.md",
+    "Computação/Mensageria/RabbitMQ/Exchange/Direct.md",
+    "Computação/Mensageria/RabbitMQ/Exchange/Default.md",
+    "Computação/Mensageria/RabbitMQ/Filas.md",
+    "Computação/Mensageria/RabbitMQ/RabbitMQ.md",
     "Computação/Mensageria/RabbitMQ/Routing keys.md",
     "Computação/Mensageria/RabbitMQ/Exchange",
-    "Computação/Mensageria/Informações",
-    "Computação/Computação",
+    "Computação/Mensageria/RabbitMQ/RabbitMQ.client.md",
+    "Computação/Mensageria/RabbitMQ/Mensagens.md",
+    "Computação/Mensageria/RabbitMQ/Bindings.md",
+    "Computação/Mensageria/RabbitMQ/Arquitetura.md",
     "Computação/Mensageria/RabbitMQ",
+    "Computação/Mensageria/Publish-subscribe.md",
     "Computação/Mensageria",
-    "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20241129151416.png",
-    "Sem título.canvas",
+    "blue/SEBRAE-MS/Documentos do processo/HUs/HU-004.md",
+    "blue/SEBRAE-MS/Documentos do processo/HUs/HU-002.md",
+    "blue/SEBRAE-MS/Documentos do processo/HUs/HU-001.md",
+    "Computação/Docker/Images/Inspecionar.md",
+    "Computação/Docker/Dockerfile/WORKDIR.md",
+    "Computação/Docker/Container/Acessar.md",
+    "Computação/Docker/Dockerfile/ENV.md",
+    "Computação/Docker/Compose/Criando.md",
+    "Computação/Docker/Compose/Comandos.md",
+    "Computação/Docker/Dockerfile/COPY.md",
+    "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/03. Especificação - SBMS-FSW-2024-0007 - GESCON_SEF - Requisições Espaço do Fornecedor V2.pdf _manifesto_.pdf",
+    "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/Documento espeficicação.canvas",
     "Computação/Docker/Compose",
+    "Computação/Docker/Network/Tipos",
     "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20241202101751.png",
     "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20241129161819.png",
     "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20241129152921.png",
+    "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20241129151416.png",
     "Computação/Docker/dsadas/Sem título.canvas",
     "Computação/Docker/canvas/Sem título.canvas",
     "Computação/Sem título.canvas",
+    "Sem título.canvas",
     "Images/Sem título.canvas"
   ]
 }
