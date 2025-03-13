@@ -21,12 +21,14 @@
             "id": "7f4845562d97b18e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "Idiomas/Inglês/Inglês.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "Inglês"
             }
           }
         ],
@@ -149,12 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Idiomas/Inglês/Inglês.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Inglês"
             }
           }
         ],
@@ -177,10 +180,12 @@
   },
   "active": "9cb82639df505edf",
   "lastOpenFiles": [
-    "Idiomas/Inglês/Fase 1/To Be/Simple present.md",
-    "Idiomas/Inglês/Fase 1/To Be/Simple past.md",
-    "Idiomas/Inglês/Fase 1/To Be",
     "Idiomas/Inglês/Inglês.md",
+    "Idiomas/Inglês/Fase 2/Present perfect.md",
+    "Idiomas/Inglês/Fase 1/Simple past.md",
+    "Idiomas/Inglês/Fase 1/Simple present.md",
+    "Idiomas/Inglês/Fase 2",
+    "Idiomas/Inglês/Fase 1/To Be",
     "Idiomas/Inglês/Fase 1",
     "Idiomas/Inglês",
     "Idiomas",
@@ -209,11 +214,9 @@
     "Computação/Docker/Dockerfile/ENV.md",
     "Computação/Docker/Compose/Criando.md",
     "Computação/Docker/Compose/Comandos.md",
-    "Computação/Docker/Dockerfile/COPY.md",
     "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/03. Especificação - SBMS-FSW-2024-0007 - GESCON_SEF - Requisições Espaço do Fornecedor V2.pdf _manifesto_.pdf",
     "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/Documento espeficicação.canvas",
     "Computação/Docker/Compose",
-    "Computação/Docker/Network/Tipos",
     "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20241202101751.png",
     "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20241129161819.png",
     "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20241129152921.png",

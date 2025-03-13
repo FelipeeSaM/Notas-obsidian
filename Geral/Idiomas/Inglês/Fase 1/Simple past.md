@@ -1,4 +1,4 @@
-O **passado** do verbo "to be" é um pouco diferente, mas bem simples.
+No [[Inglês]], o **passado** do verbo "to be" é um pouco diferente, mas bem simples.
 
 #### **Formas do verbo "to be" no passado:**
 
@@ -27,3 +27,19 @@ Para fazer perguntas no passado, basta inverter a ordem do sujeito e do verbo **
 - **They were** at home. (Eles estavam em casa.)
 - **You were** late. (Você estava atrasado.)
 
+### **Explicação rápida: Simple Past**
+
+Usamos o **Passado Simples** para falar sobre **ações concluídas no passado**.
+
+**Estrutura:**  
+**Afirmativa:**  
+Sujeito + verbo no passado + complemento 
+Exemplo: **I visited my grandparents last weekend.**
+
+**Negativa:**  
+Sujeito + did not (didn′t) + verbo no infinitivo + complemento
+Exemplo: **I didn't visit my grandparents last weekend.**
+
+**Interrogativa:**  
+Did + sujeito + verbo no infinitivo + complemento?
+Exemplo: **Did you visit your grandparents last weekend?**
