@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Idiomas/Inglês/Inglês.md",
+                "file": "Idiomas/Inglês/Fase 2/Present perfect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inglês"
+              "title": "Present perfect"
             }
           }
         ],
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Idiomas/Inglês/Inglês.md",
+                "file": "Idiomas/Inglês/Fase 2/Present perfect.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Inglês"
+              "title": "Sumário de Present perfect"
             }
           }
         ],
@@ -178,7 +178,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9cb82639df505edf",
+  "active": "7f4845562d97b18e",
   "lastOpenFiles": [
     "Idiomas/Inglês/Inglês.md",
     "Idiomas/Inglês/Fase 2/Present perfect.md",
