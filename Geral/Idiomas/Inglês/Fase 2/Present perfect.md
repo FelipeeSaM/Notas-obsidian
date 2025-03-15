@@ -21,7 +21,7 @@ Do [[Inglês]], o **Present Perfect** é usado para falar sobre ações que ocor
  
 1. **Have** é usado para os sujeitos **I, you, we, they**.
 2. **Has** é usado para os sujeitos **he, she, it**.
-
+ 
 #### **Formação do Past Participle (Particípio Passado):**
 
 - **Verbos regulares** formam o particípio passado com **-ed**.
