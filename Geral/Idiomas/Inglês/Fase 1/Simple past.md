@@ -30,7 +30,7 @@ Para fazer perguntas no passado, basta inverter a ordem do sujeito e do verbo **
 ### **Explicação rápida: Simple Past**
 
 Usamos o **Passado Simples** para falar sobre **ações concluídas no passado**.
-
+ 
 **Estrutura:**  
 **Afirmativa:**  
 Sujeito + verbo no passado + complemento 
