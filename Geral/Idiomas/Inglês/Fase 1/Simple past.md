@@ -12,7 +12,7 @@ A forma negativa do verbo "to be" no passado é **was not** ou **weren't**.
 - **I was not** (I wasn't) at the meeting. (Eu não estava na reunião.)
 - **He was not** (He wasn't) happy. (Ele não estava feliz.)
 - **They were not** (They weren't) at the event. (Eles não estavam no evento.)
- 
+  
 ###  **Forma interrogativa**:
 
 Para fazer perguntas no passado, basta inverter a ordem do sujeito e do verbo **was** ou **were**.
