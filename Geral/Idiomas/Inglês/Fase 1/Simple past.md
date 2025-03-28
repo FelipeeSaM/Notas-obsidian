@@ -19,7 +19,7 @@ Para fazer perguntas no passado, basta inverter a ordem do sujeito e do verbo **
 
 - **Was** she at work yesterday? (Ela estava no trabalho ontem?)
 - **Were** you at the party last night? (Você estava na festa ontem à noite?)
-
+ 
 ### **Exemplos:**
 
 - **I was** tired yesterday. (Eu estava cansado ontem.)
