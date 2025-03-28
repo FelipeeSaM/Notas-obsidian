@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"db03ac940953f362","type":"file","file":"Pasted image 20250328120040.png","x":-325,"y":-200,"width":669,"height":220},
+		{"id":"3d1b6c6980f3a730","type":"text","text":"Previsto concedente = Financeiro convenente\nPrevisto SEBRAE = Financeiro SEBRAE?\n(1:06)","x":-600,"y":-420,"width":340,"height":100},
+		{"id":"74b5455844e6e4af","type":"text","text":"Campos do natureza:\nNatureza,\nFinanceiro convenente,\nEconomico convenente,\nFinanceiro SEBRAE,\nEconômico SEBRAE","x":-475,"y":-1020,"width":250,"height":185},
+		{"id":"405988e383d5e752","type":"text","text":"Realizado concedente e realizado SEBRAE vem do cadastro da despesa","x":-100,"y":-413,"width":314,"height":86},
+		{"id":"5c4a19def6612714","x":-121,"y":-520,"width":442,"height":50,"type":"text","text":"Saldo SEBRAE = previsto SEBRAE - realizado SEBRAE"},
+		{"id":"12b5e55fa8491351","type":"text","text":"1° nível a ação e no 2° nível a natureza, como no JSON, com a natureza de despesa acima e o total abaixo","x":-475,"y":-800,"width":295,"height":120},
+		{"id":"aa9aed9ccac002df","x":-207,"y":-620,"width":528,"height":60,"type":"text","text":"Saldo concedente = previsto concedente - realizado concedente"},
+		{"id":"8f30d2f57eb747ac","x":380,"y":-570,"width":416,"height":50,"type":"text","text":"Saldo total = saldo concedente + saldo SEBRAE"},
+		{"id":"57a63394ae242894","x":500,"y":-150,"width":250,"height":60,"type":"text","text":"8:38 como assim esse é só por natureza, e a outra tabela é só por ação?"}
+	],
+	"edges":[
+		{"id":"c10faf68b7d6cb12","fromNode":"db03ac940953f362","fromSide":"left","toNode":"3d1b6c6980f3a730","toSide":"bottom"},
+		{"id":"bfeb241263357d62","fromNode":"74b5455844e6e4af","fromSide":"left","toNode":"12b5e55fa8491351","toSide":"left"},
+		{"id":"54891599eeca7842","fromNode":"db03ac940953f362","fromSide":"top","toNode":"405988e383d5e752","toSide":"bottom"},
+		{"id":"b7e6534f55c84f55","fromNode":"405988e383d5e752","fromSide":"top","toNode":"aa9aed9ccac002df","toSide":"bottom"},
+		{"id":"1bebf6bcd414827e","fromNode":"405988e383d5e752","fromSide":"top","toNode":"5c4a19def6612714","toSide":"bottom"},
+		{"id":"f48cc85f2847b09d","fromNode":"aa9aed9ccac002df","fromSide":"right","toNode":"8f30d2f57eb747ac","toSide":"left"},
+		{"id":"943edd93bddb4fe0","fromNode":"5c4a19def6612714","fromSide":"right","toNode":"8f30d2f57eb747ac","toSide":"left"},
+		{"id":"0e440e867b72ba76","fromNode":"db03ac940953f362","fromSide":"right","toNode":"57a63394ae242894","toSide":"left"}
+	]
+}
