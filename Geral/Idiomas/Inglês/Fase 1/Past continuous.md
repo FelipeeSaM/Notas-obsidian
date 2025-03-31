@@ -7,3 +7,4 @@ O **past continuous** é usado no [[Inglês]] para descrever ações que estavam
 - _I was studying when you called me._ (_Eu estava estudando quando você me ligou._)
     
 - _They were watching TV at 8 PM._ (_Eles estavam assistindo TV às 20h._)
+ 
