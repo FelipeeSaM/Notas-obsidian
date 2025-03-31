@@ -21,18 +21,33 @@
             "id": "7f4845562d97b18e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Idiomas/Inglês/Fase 2/Present perfect.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.8.4"
               },
-              "icon": "lucide-file",
-              "title": "Present perfect"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
+            "id": "10776266afe9d33c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "blue/SEBRAE-MS/Documentos do processo/Sem título.canvas",
+                "viewState": {
+                  "x": 43.62701548998052,
+                  "y": -346.28561966696157,
+                  "zoom": 1.1102230246251565e-16
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Idiomas/Inglês/Fase 2/Present perfect.md",
+                "file": "blue/SEBRAE-MS/Documentos do processo/Sem título.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Present perfect"
+              "title": "Sumário de Sem título"
             }
           }
         ],
@@ -178,14 +193,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7f4845562d97b18e",
+  "active": "9cb82639df505edf",
   "lastOpenFiles": [
-    "Idiomas/Inglês/Inglês.md",
+    "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20250328120040.png",
+    "Computação/Mensageria/RabbitMQ/RabbitMQ.md",
+    "blue/SEBRAE-MS/Documentos do processo/Sem título.canvas",
+    "Idiomas/Inglês/Fase 1/Past continuous.md",
     "Idiomas/Inglês/Fase 2/Present perfect.md",
-    "Idiomas/Inglês/Fase 1/Simple past.md",
-    "Idiomas/Inglês/Fase 1/Simple present.md",
     "Idiomas/Inglês/Fase 2",
+    "Idiomas/Inglês/Fase 1/Simple present.md",
+    "Idiomas/Inglês/Fase 1/Simple past.md",
+    "Computação/Mensageria/RabbitMQ/RabbitMQ.client.md",
+    "Computação/Mensageria/Publish-subscribe.md",
+    "Idiomas/Inglês/Fase 1/To Be/Simple present.md",
+    "Idiomas/Inglês/Fase 1/To Be/Simple past.md",
     "Idiomas/Inglês/Fase 1/To Be",
+    "Idiomas/Inglês/Inglês.md",
     "Idiomas/Inglês/Fase 1",
     "Idiomas/Inglês",
     "Idiomas",
@@ -195,25 +218,18 @@
     "Computação/Mensageria/RabbitMQ/Exchange/Direct.md",
     "Computação/Mensageria/RabbitMQ/Exchange/Default.md",
     "Computação/Mensageria/RabbitMQ/Filas.md",
-    "Computação/Mensageria/RabbitMQ/RabbitMQ.md",
     "Computação/Mensageria/RabbitMQ/Routing keys.md",
     "Computação/Mensageria/RabbitMQ/Exchange",
-    "Computação/Mensageria/RabbitMQ/RabbitMQ.client.md",
     "Computação/Mensageria/RabbitMQ/Mensagens.md",
     "Computação/Mensageria/RabbitMQ/Bindings.md",
     "Computação/Mensageria/RabbitMQ/Arquitetura.md",
     "Computação/Mensageria/RabbitMQ",
-    "Computação/Mensageria/Publish-subscribe.md",
     "Computação/Mensageria",
     "blue/SEBRAE-MS/Documentos do processo/HUs/HU-004.md",
     "blue/SEBRAE-MS/Documentos do processo/HUs/HU-002.md",
     "blue/SEBRAE-MS/Documentos do processo/HUs/HU-001.md",
     "Computação/Docker/Images/Inspecionar.md",
     "Computação/Docker/Dockerfile/WORKDIR.md",
-    "Computação/Docker/Container/Acessar.md",
-    "Computação/Docker/Dockerfile/ENV.md",
-    "Computação/Docker/Compose/Criando.md",
-    "Computação/Docker/Compose/Comandos.md",
     "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/03. Especificação - SBMS-FSW-2024-0007 - GESCON_SEF - Requisições Espaço do Fornecedor V2.pdf _manifesto_.pdf",
     "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/Documento espeficicação.canvas",
     "Computação/Docker/Compose",
