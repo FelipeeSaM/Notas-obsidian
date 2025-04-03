@@ -4,11 +4,11 @@
 		{"id":"3d1b6c6980f3a730","type":"text","text":"Previsto concedente = Financeiro convenente\nPrevisto SEBRAE = Financeiro SEBRAE?\n(1:06)","x":-600,"y":-420,"width":340,"height":100},
 		{"id":"74b5455844e6e4af","type":"text","text":"Campos do natureza:\nNatureza,\nFinanceiro convenente,\nEconomico convenente,\nFinanceiro SEBRAE,\nEconômico SEBRAE","x":-475,"y":-1020,"width":250,"height":185},
 		{"id":"405988e383d5e752","type":"text","text":"Realizado concedente e realizado SEBRAE vem do cadastro da despesa","x":-100,"y":-413,"width":314,"height":86},
-		{"id":"5c4a19def6612714","x":-121,"y":-520,"width":442,"height":50,"type":"text","text":"Saldo SEBRAE = previsto SEBRAE - realizado SEBRAE"},
+		{"id":"5c4a19def6612714","type":"text","text":"Saldo SEBRAE = previsto SEBRAE - realizado SEBRAE","x":-121,"y":-520,"width":442,"height":50},
 		{"id":"12b5e55fa8491351","type":"text","text":"1° nível a ação e no 2° nível a natureza, como no JSON, com a natureza de despesa acima e o total abaixo","x":-475,"y":-800,"width":295,"height":120},
-		{"id":"aa9aed9ccac002df","x":-207,"y":-620,"width":528,"height":60,"type":"text","text":"Saldo concedente = previsto concedente - realizado concedente"},
-		{"id":"8f30d2f57eb747ac","x":380,"y":-570,"width":416,"height":50,"type":"text","text":"Saldo total = saldo concedente + saldo SEBRAE"},
-		{"id":"57a63394ae242894","x":500,"y":-150,"width":250,"height":60,"type":"text","text":"8:38 como assim esse é só por natureza, e a outra tabela é só por ação?"}
+		{"id":"aa9aed9ccac002df","type":"text","text":"Saldo concedente = previsto concedente - realizado concedente","x":-207,"y":-620,"width":528,"height":60},
+		{"id":"8f30d2f57eb747ac","type":"text","text":"Saldo total = saldo concedente + saldo SEBRAE","x":380,"y":-570,"width":416,"height":50},
+		{"id":"57a63394ae242894","type":"text","text":"8:38 como assim esse é só por natureza, e a outra tabela é só por ação?","x":500,"y":-150,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"c10faf68b7d6cb12","fromNode":"db03ac940953f362","fromSide":"left","toNode":"3d1b6c6980f3a730","toSide":"bottom"},
