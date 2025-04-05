@@ -12,7 +12,7 @@ O verbo **"to be"** significa **"ser" ou "estar"**, dependendo do contexto. Ele 
 | You (plural) | are (You are)    | are not (You aren’t)  | Are you...?         |
 | They         | are (They are)   | are not (They aren’t) | Are they...?        |
 **Exemplos:**
-
+ 
 - I **am** a developer. (Eu sou um desenvolvedor.)
 - She **is** my friend. (Ela é minha amiga.)
 - We **are** happy today. (Nós estamos felizes hoje.)
