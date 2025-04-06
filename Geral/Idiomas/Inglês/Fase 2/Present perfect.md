@@ -3,7 +3,7 @@ Do [[Inglês]], o **Present Perfect** é usado para falar sobre ações que ocor
 #### **Estrutura do Present Perfect:**
 
 **Afirmativa:**
-
+ 
 - **Sujeito + have/has + verbo no particípio passado (past participle).**
 - **Exemplo:** I have eaten breakfast. (Eu tomei café da manhã.)
 
