@@ -13,7 +13,7 @@ Do [[Inglês]], o **Present Perfect** é usado para falar sobre ações que ocor
 - **Exemplo:** She has not finished her homework. (Ela não terminou a lição de casa.)
 
 **Interrogativa:**
-
+ 
 - **Have/Has + sujeito + verbo no particípio passado?**
 - **Exemplo:** Have you seen that movie? (Você viu aquele filme?)
 
