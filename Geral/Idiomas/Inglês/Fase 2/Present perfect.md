@@ -1,7 +1,7 @@
 Do [[Inglês]], o **Present Perfect** é usado para falar sobre ações que ocorreram em um momento indeterminado no passado, mas que têm **relevância ou conexão com o presente**. Não se sabe exatamente quando a ação aconteceu, mas sabemos que ela tem impacto agora.
 
 #### **Estrutura do Present Perfect:**
-  
+   
 **Afirmativa:**
  
 - **Sujeito + have/has + verbo no particípio passado (past participle).**
