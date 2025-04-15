@@ -11,7 +11,7 @@
     - She is a teacher.
         
     - They are tired.
-        
+         
 
 #### ➤ Usado para descrever **estado**, **profissão**, **origem**, entre outros.
 
