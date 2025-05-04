@@ -33,17 +33,14 @@
             "id": "10776266afe9d33c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "blue/SEBRAE-MS/Documentos do processo/Sem título.canvas",
-                "viewState": {
-                  "x": 43.62701548998052,
-                  "y": -346.28561966696157,
-                  "zoom": 1.1102230246251565e-16
-                }
+                "file": "Outros/Viagem Arlanda.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sem título"
+              "icon": "lucide-file",
+              "title": "Viagem Arlanda"
             }
           }
         ],
@@ -166,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blue/SEBRAE-MS/Documentos do processo/Sem título.canvas",
+                "file": "Outros/Viagem Arlanda.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sem título"
+              "title": "Sumário de Viagem Arlanda"
             }
           }
         ],
@@ -193,22 +190,28 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9cb82639df505edf",
+  "active": "10776266afe9d33c",
   "lastOpenFiles": [
-    "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20250328120040.png",
-    "Computação/Mensageria/RabbitMQ/RabbitMQ.md",
-    "blue/SEBRAE-MS/Documentos do processo/Sem título.canvas",
-    "Idiomas/Inglês/Fase 1/Past continuous.md",
+    "Idiomas/Inglês/Fase 2/in, on, at.md",
+    "Outros/Viagem Arlanda.md",
+    "Outros",
+    "Sem título.md",
     "Idiomas/Inglês/Fase 2/Present perfect.md",
-    "Idiomas/Inglês/Fase 2",
+    "Idiomas/Inglês/Fase 2/Present continuous.md",
+    "Idiomas/Inglês/Revisão.md",
     "Idiomas/Inglês/Fase 1/Simple present.md",
     "Idiomas/Inglês/Fase 1/Simple past.md",
+    "Idiomas/Inglês/Fase 1/Past continuous.md",
+    "Idiomas/Inglês/Inglês.md",
+    "blue/SEBRAE-MS/Documentos do processo/Sem título.canvas",
+    "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20250328120040.png",
+    "Computação/Mensageria/RabbitMQ/RabbitMQ.md",
+    "Idiomas/Inglês/Fase 2",
     "Computação/Mensageria/RabbitMQ/RabbitMQ.client.md",
     "Computação/Mensageria/Publish-subscribe.md",
     "Idiomas/Inglês/Fase 1/To Be/Simple present.md",
     "Idiomas/Inglês/Fase 1/To Be/Simple past.md",
     "Idiomas/Inglês/Fase 1/To Be",
-    "Idiomas/Inglês/Inglês.md",
     "Idiomas/Inglês/Fase 1",
     "Idiomas/Inglês",
     "Idiomas",
@@ -226,13 +229,8 @@
     "Computação/Mensageria/RabbitMQ",
     "Computação/Mensageria",
     "blue/SEBRAE-MS/Documentos do processo/HUs/HU-004.md",
-    "blue/SEBRAE-MS/Documentos do processo/HUs/HU-002.md",
-    "blue/SEBRAE-MS/Documentos do processo/HUs/HU-001.md",
-    "Computação/Docker/Images/Inspecionar.md",
-    "Computação/Docker/Dockerfile/WORKDIR.md",
     "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/03. Especificação - SBMS-FSW-2024-0007 - GESCON_SEF - Requisições Espaço do Fornecedor V2.pdf _manifesto_.pdf",
     "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/Documento espeficicação.canvas",
-    "Computação/Docker/Compose",
     "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20241202101751.png",
     "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20241129161819.png",
     "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20241129152921.png",
