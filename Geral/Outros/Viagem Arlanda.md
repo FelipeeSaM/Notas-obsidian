@@ -9,7 +9,7 @@
 		- Visitar o studio Grieghallen
 		- Visitar o cemiterio Møllendal gravplass
 		- Visitar a corte Bergen tingrett
-
+  
 
 - Suécia:
 	- Visitar a inferno lan house na Odengatan 60
