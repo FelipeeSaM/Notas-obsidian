@@ -9,6 +9,8 @@
 		- Visitar o studio Grieghallen
 		- Visitar o cemiterio Møllendal gravplass
 		- Visitar a corte Bergen tingrett
+	- Oslo
+		- 20 de setembro: show do the midnight no rockfeller
   
   
 - Suécia:
