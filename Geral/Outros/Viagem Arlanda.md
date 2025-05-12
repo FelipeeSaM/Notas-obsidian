@@ -12,7 +12,7 @@
 	- Oslo
 		- 20 de setembro: show do the midnight no rockfeller
   
-  
+  Noruega pode ser Bergen > Tromso > Oslo, que é para ficar mais perto para voltar para Estocolmo.
 - Suécia:
 	- Visitar a inferno lan house na Odengatan 60
 
