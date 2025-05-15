@@ -1,122 +1,171 @@
-## **REVISÃO GERAL — NÍVEL BÁSICO A INTERMEDIÁRIO (até o início do Present Perfect)**
+## **FASE 1 – Fundamentos Essenciais**
 
-###  1. **Verbo "to be" no presente**
- 
-- **Formas:** am, is, are
-     
-- **Exemplos:**
+### 1. Verbo **"to be"** – presente e passado
+
+- **Presente:**
     
-    - I am happy.
+    - I am happy → _Eu estou feliz_
         
-    - She is a teacher.
+    - She is tired → _Ela está cansada_
         
-    - They are tired.
-         
-
-#### ➤ Usado para descrever **estado**, **profissão**, **origem**, entre outros.
-
----
-
-###  2. **Verbo "to be" no passado**
-
-- **Formas:** was, were
-    
-- **Exemplos:**
-    
-    - I was at home yesterday.
+    - They are at school → _Eles estão na escola_
         
-    - They were at the beach last weekend.
+- **Passado:**
+    
+    - I was happy → _Eu estava feliz_
         
-
-#### ➤ Indica **situações ou estados no passado**.
-
----
-
-###  3. **Formação de frases básicas**
-
-- **Afirmativas, negativas e interrogativas** com “to be” e outros verbos.
-    
-- Uso de **contrações** (isn't, weren't, I'm, etc.)
-    
-- **Exemplos:**
-    
-    - She isn't tired.
+    - She was tired → _Ela estava cansada_
         
-    - Are you ready?
+    - They were at school → _Eles estavam na escola_
         
 
 ---
 
-###  4. **Simple Past (Passado Simples)**
+### 2. Pronomes pessoais e possessivos (não vimos diretamente, mas usamos bastante)
 
-#### a) **Verbos Regulares:**
+| Sujeito | Objeto | Possessivo (adj) | Possessivo (pronome) |
+| ------- | ------ | ---------------- | -------------------- |
+| I       | me     | my               | mine                 |
+| You     | you    | your             | yours                |
+| He      | him    | his              | his                  |
+| She     | her    | her              | hers                 |
+| It      | it     | its              | -                    |
+| We      | us     | our              | ours                 |
+| They    | them   | their            | theirs               |
 
-- Adiciona **-ed** ao verbo.
+### 3. **Artigos** definidos e indefinidos
+
+_(Você já usa intuitivamente, mas vamos revisar em breve com foco)_
+
+- **a / an** → indefinido
     
-    - play → played
+    - a car, an apple
         
-    - watch → watched
-        
-
-#### b) **Verbos Irregulares:**
-
-- Têm forma própria.
+- **the** → definido
     
-    - go → went
-        
-    - eat → ate
-        
-
-#### c) **Frases Afirmativas, Negativas e Interrogativas**
-
-- **Exemplos:**
-    
-    - I went to the library.
-        
-    - She didn't study.
-        
-    - Did you watch the movie?
+    - the book, the sun
         
 
 ---
 
-###  5. **Uso do auxiliar "did"**
+### 4. Estruturas de frases
 
-- Usado nas **negativas** e **interrogativas** do Simple Past.
+- **Afirmativas:** I am a teacher.
     
-- O verbo principal **volta para a forma base**.
+- **Negativas:** I am not a teacher.
     
-    - ❌ I didn’t _went_ → ✅ I didn’t **go**
-        
-    - ❌ Did you _watched_? → ✅ Did you **watch**?
-        
-
----
-
-###  6. **Expressões de tempo comuns com Simple Past**
-
-- yesterday, last week, in 2022, on Monday, etc.
+- **Interrogativas:** Are you a teacher?
     
 
 ---
 
-###  7. **Vocabulário prático e produção de textos curtos**
+### 5. **Simple Present** – Presente simples
 
-- Falamos de **rotinas**, **viagens**, **hobbies**, **comida**, **música**, **experiências pessoais**.
+#### a) Uso:
+
+- Fatos, rotinas, hábitos.
     
-- Você escreveu textos com **boa estrutura**, usando os tempos corretos.
+
+#### b) Exemplos:
+
+- I work every day.
+    
+- She studies at night.
+    
+- We don't like coffee.
+    
+- Does he play guitar?
+    
+
+#### c) Adverbs of frequency:
+
+- always, usually, sometimes, never
+    
+> Exemplo com variação:
+
+- I study English every day (present)
+    
+- I studied English yesterday (past)
+    
+- I am studying English now (present continuous)
+
+## **FASE 2 – Construindo Sentenças Mais Complexas**
+
+### 6. **Simple Past** – Passado Simples
+
+#### a) Uso:
+
+- Ações concluídas no passado
+    
+
+#### b) Verbos regulares e irregulares:
+
+- **Regular:** play → played
+    
+- **Irregular:** go → went
+    
+
+#### c) Exemplos:
+
+- I watched a movie
+    
+- He went to the store
+    
+- We didn’t play yesterday
+    
+- Did they study last week?
     
 
 ---
 
-###  8. **Introdução ao Present Perfect (Presente Perfeito)**
+### 7. **Present Continuous** – Presente Contínuo
 
-- Estrutura: **have/has + past participle**
+#### a) Uso:
+
+- Ações acontecendo **agora** ou **temporariamente**
     
-- Exprime:
+
+#### b) Formação:
+
+- am / is / are + verbo + -ing
     
-    - Experiências de vida (Have you ever...?)
+
+#### c) Exemplos:
+
+- I am learning English now
+    
+- She is playing video games
+    
+- They aren't working today
+    
+- Are you studying?
+    
+
+---
+
+> **Comparando Present Simple x Present Continuous**
+
+- I eat pizza every Friday (hábito)
+    
+- I am eating pizza now (ação acontecendo)
+    
+
+---
+
+### 8. Preposições de lugar e tempo (vimos pontualmente)
+
+- **Tempo:**
+    
+    - at 8 AM
         
-    - Ações que continuam no presente (I have lived here for 3 years)
+    - in July
         
-    - Ações que aconteceram num tempo não especificado
+    - on Monday
+        
+- **Lugar:**
+    
+    - at school
+        
+    - in the room
+        
+    - on the table
