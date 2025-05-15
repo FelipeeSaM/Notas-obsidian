@@ -1,4 +1,5 @@
 - Noruega
+	- Lofoten
 	- Bergen
 		- Leprosy museum
 		- Fantoft Stave Church
