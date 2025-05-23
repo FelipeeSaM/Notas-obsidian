@@ -19,3 +19,10 @@
 
 - Dinamarca:
 	- vikingeskibsmuseet roskilde 
+
+
+Sites:
+Vy for trains and buses: [www.vy.no](http://www.vy.no)  
+Torghatten Nord for ferries in Northern Norway: [www.torghatten-nord.no](http://www.torghatten-nord.no)  
+DFDS for Copenhagen to Oslo ferry: [www.dfds.com](http://www.dfds.com)  
+Entur app (public transport planner in Norway): You can find it in the App Store or Google Play by searching “Entur”
