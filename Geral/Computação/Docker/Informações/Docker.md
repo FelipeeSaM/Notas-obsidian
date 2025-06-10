@@ -1,2 +1,2 @@
 O docker é, basicamente, uma ferramenta que contém bibliotecas necessárias para rodar sistemas, bibliotecas, softwares etc. sem se utilizar de um sistema operacional completo e suas dependências para isso, e que você consegue montar sistemas em contêineres, que rodam a partir de imagens e exportá-las. 
-[[Computação]]  
+[[Computação]]   
