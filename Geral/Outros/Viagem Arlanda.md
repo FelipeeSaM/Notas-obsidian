@@ -11,7 +11,7 @@
 		- Visitar o cemiterio Møllendal gravplass
 		- Visitar a corte Bergen tingrett
 	- Oslo
-		- 20 de setembro: show do the midnight no rockfeller
+		- nasjonalmuseet oslo
   
   Noruega pode ser Bergen > Tromso > Oslo, que é para ficar mais perto para voltar para Estocolmo.
 - Suécia:
