@@ -5,13 +5,14 @@
 		- https://en.visitbergen.com/bergen-card/attractions
 		- https://www.skyss.no/en/ site de rotas
 		- Leprosy museum
-		- Bellgården 2, 5003 Bergen, Noruega (loja de Gaahl) - Galleri Fjalar
+		- Bryggen 37, 2 Etasje, 5003 Bergen, Norway (loja de Gaahl) - Galleri Fjalar
 		- Bergenshus fortress
 		- kode museu de arte
 		- Gamle bergen museum
 		- bergen domkirke
 		- Fantoft Stave Church (de Bergen pega o Byparken ou nonneseter até fantoft - onibus eletrico chamado bybanen)
 		- Transporte público até Ulriken, pegar o bondinho até o topo da montanha, depois pegar o tour até Fløyen num trem e depois voltar para Bergen
+		- Aplicativo Floibannen
 		- Visitar a primeira casa de Varg: Lille Markeveien 5
 		- Visitar a Kjellersmauet 14
 		- Visitar o studio Grieghallen Nygårdsgaten 11
@@ -20,6 +21,7 @@
 	- Oslo
 		- Naseblod Schweigaards gate 56, Gamle Oslo, 0656 Oslo
 		- nasjonalmuseet - Museu de oslo (Brynjulf Bulls plass 3) para ver:
+			- https://metaltravels.com/the-national-museum/
 			- Nótt - burzum
 			- The Wild Hunt of Odin - bathory
 			- **Evening Glow” (Natteglød)**, de Harald Sohlberg - satyricon
@@ -38,3 +40,5 @@ Vy for trains and buses: [www.vy.no](http://www.vy.no)
 Torghatten Nord for ferries in Northern Norway: [www.torghatten-nord.no](http://www.torghatten-nord.no)  
 DFDS for Copenhagen to Oslo ferry: [www.dfds.com](http://www.dfds.com)  
 Entur app (public transport planner in Norway): You can find it in the App Store or Google Play by searching “Entur”
+
+https://www.seat61.com/trains-and-routes/copenhagen-to-oslo-by-train.htm trem de copenhague para Oslo
