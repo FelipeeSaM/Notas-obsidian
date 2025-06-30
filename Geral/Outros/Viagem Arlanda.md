@@ -42,3 +42,9 @@ DFDS for Copenhagen to Oslo ferry: [www.dfds.com](http://www.dfds.com)
 Entur app (public transport planner in Norway): You can find it in the App Store or Google Play by searching “Entur”
 
 https://www.seat61.com/trains-and-routes/copenhagen-to-oslo-by-train.htm trem de copenhague para Oslo
+
+https://www.fjordtours.com/en/norway/things-to-do/sightseeing/tourist-attractions/eco-friendly-flam-stegastein-scenic-viewpoint < mini-van para Stegastein (aquela vista da ponte) 430 NOK
+
+https://www.fjordtours.com/en/norway/places-to-visit/scenic-views/attractions/northern-lights/tromso-minibus-safari < safari da aurora boreal 1750 NOK
+
+https://www.fjordtours.com/en/norway/tours/bergen-mostraumen-roundtrip Passeio de barco num fiorde de Bergen
