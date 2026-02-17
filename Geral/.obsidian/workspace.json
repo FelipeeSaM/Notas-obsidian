@@ -33,6 +33,26 @@
             "id": "10776266afe9d33c",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "8b8eb9635465bbe8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "467465ce4d4e5bd0",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Outros/Viagem Arlanda.md",
@@ -44,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -182,6 +202,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Criar nova base": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -190,18 +211,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "10776266afe9d33c",
+  "active": "467465ce4d4e5bd0",
   "lastOpenFiles": [
-    "Idiomas/Inglês/Fase 2/in, on, at.md",
-    "Outros/Viagem Arlanda.md",
-    "Outros",
-    "Sem título.md",
-    "Idiomas/Inglês/Fase 2/Present perfect.md",
-    "Idiomas/Inglês/Fase 2/Present continuous.md",
-    "Idiomas/Inglês/Revisão.md",
+    "Computação/Docker/Compose/Volume.md",
+    "Computação/Docker/Compose/Network.md",
     "Idiomas/Inglês/Fase 1/Simple present.md",
     "Idiomas/Inglês/Fase 1/Simple past.md",
     "Idiomas/Inglês/Fase 1/Past continuous.md",
+    "Outros/Viagem Arlanda.md",
+    "Computação/Docker/Container/Container.md",
+    "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/Objetivos.md",
+    "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/Fluxo geral.md",
+    "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/Documento espeficicação.canvas",
+    "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/03. Especificação - SBMS-FSW-2024-0007 - GESCON_SEF - Requisições Espaço do Fornecedor V2.pdf _manifesto_.pdf",
+    "Idiomas/Inglês/Fase 2/in, on, at.md",
+    "Computação/Docker/Informações/Docker.md",
+    "Idiomas/Inglês/Fase 2/Present perfect.md",
+    "Idiomas/Inglês/Revisão.md",
+    "Outros",
+    "Sem título.md",
+    "Idiomas/Inglês/Fase 2/Present continuous.md",
     "Idiomas/Inglês/Inglês.md",
     "blue/SEBRAE-MS/Documentos do processo/Sem título.canvas",
     "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20250328120040.png",
@@ -220,17 +249,9 @@
     "Computação/Mensageria/RabbitMQ/Exchange/Fanout.md",
     "Computação/Mensageria/RabbitMQ/Exchange/Direct.md",
     "Computação/Mensageria/RabbitMQ/Exchange/Default.md",
-    "Computação/Mensageria/RabbitMQ/Filas.md",
-    "Computação/Mensageria/RabbitMQ/Routing keys.md",
     "Computação/Mensageria/RabbitMQ/Exchange",
-    "Computação/Mensageria/RabbitMQ/Mensagens.md",
-    "Computação/Mensageria/RabbitMQ/Bindings.md",
-    "Computação/Mensageria/RabbitMQ/Arquitetura.md",
     "Computação/Mensageria/RabbitMQ",
     "Computação/Mensageria",
-    "blue/SEBRAE-MS/Documentos do processo/HUs/HU-004.md",
-    "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/03. Especificação - SBMS-FSW-2024-0007 - GESCON_SEF - Requisições Espaço do Fornecedor V2.pdf _manifesto_.pdf",
-    "blue/SEBRAE-MS/Documentos do processo/Especificações gerais/Documento espeficicação.canvas",
     "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20241202101751.png",
     "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20241129161819.png",
     "blue/SEBRAE-MS/Documentos do processo/Imagens/Pasted image 20241129152921.png",
