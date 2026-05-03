@@ -1,1 +1,0 @@
-Permitir que fiscais e gerentes realizem requisições exclusivamente pelo sistema "Espaço do Fornecedor" em contratos que são respectivamente responsáveis e o comprometimento de parcelas fixas.
