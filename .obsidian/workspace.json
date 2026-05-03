@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "839575b7981025af",
+        "id": "934c14b7d3112b5c",
         "type": "tabs",
         "children": [
           {
-            "id": "024d9b444780ec3e",
+            "id": "d1d4557d1c2136a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Geral/Outros/Viagem Arlanda.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".trash/Sem título.canvas",
+                "bFile": ".trash/Sem título.canvas",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Viagem Arlanda"
+              "icon": "diff",
+              "title": "Diff: Sem título.canvas  (Working Tree)"
             }
           }
         ]
@@ -73,19 +73,8 @@
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
-          },
-          {
-            "id": "20e944eba1e36698",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geral/Outros/Viagem Arlanda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Viagem Arlanda"
+              "title": "Links inversos"
             }
           },
           {
@@ -161,7 +149,7 @@
             }
           },
           {
-            "id": "a1bc5b88a9ac4dba",
+            "id": "57d5f46fee43d1e1",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -190,8 +178,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "024d9b444780ec3e",
+  "active": "57d5f46fee43d1e1",
   "lastOpenFiles": [
+    "Sem título.base",
+    "Sem título.canvas",
+    "Geral/Outros/Viagem Arlanda.md",
+    "Geral/Idiomas/Inglês/Fase 1/Simple present.md",
+    "Geral/Idiomas/Inglês/Fase 1/Past continuous.md",
     "Geral/blue/SEBRAE-MS/Documentos do processo/Especificações gerais/03. Especificação - SBMS-FSW-2024-0007 - GESCON_SEF - Requisições Espaço do Fornecedor V2.pdf _manifesto_.pdf",
     "Geral/Idiomas/Sueco"
   ]
