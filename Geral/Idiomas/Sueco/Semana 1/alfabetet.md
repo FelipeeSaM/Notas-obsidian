@@ -1,3 +1,4 @@
+[[Sueco]]
 ## O Alfabeto Sueco
 
 O sueco usa o **mesmo alfabeto latino** que o português, mas tem **3 letras extras** no final:

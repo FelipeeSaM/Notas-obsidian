@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiLanguages",
+      "LiMessagesSquare",
+      "LiContainer",
+      "LiComputer",
+      "LiAlertOctagon"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +33,9 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "Geral/Computação": "LiComputer",
+  "Geral/Computação/Docker": "LiContainer",
+  "Geral/Computação/Mensageria": "LiMessagesSquare",
+  "Geral/Idiomas": "LiLanguages"
 }
