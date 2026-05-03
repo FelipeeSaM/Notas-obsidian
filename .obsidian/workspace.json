@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0a789e44e070e1d9",
+        "id": "56ec0dbcea360533",
         "type": "tabs",
         "children": [
           {
-            "id": "675ade3daf1faf96",
+            "id": "1bfa658b494b5850",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Geral/Outros/Viagem Arlanda.md",
-                "bFile": "Geral/Outros/Viagem Arlanda.md",
-                "aRef": ""
+                "file": "Geral/Outros/Viagem Arlanda.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Viagem Arlanda  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Viagem Arlanda"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Geral/Outros/Viagem Arlanda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos"
+              "title": "Links inversos para Viagem Arlanda"
             }
           },
           {
@@ -140,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Geral/Outros/Viagem Arlanda.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Viagem Arlanda"
             }
           },
           {
@@ -178,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "675ade3daf1faf96",
+  "active": "1bfa658b494b5850",
   "lastOpenFiles": [
     "Geral/Idiomas/Sueco/Semana 1/alfabetet.md",
     "Geral/Outros/Viagem Arlanda.md",
