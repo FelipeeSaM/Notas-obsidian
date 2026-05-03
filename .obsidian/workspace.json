@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "934c14b7d3112b5c",
+        "id": "0a789e44e070e1d9",
         "type": "tabs",
         "children": [
           {
-            "id": "d1d4557d1c2136a8",
+            "id": "675ade3daf1faf96",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".trash/Sem título.canvas",
-                "bFile": ".trash/Sem título.canvas",
+                "aFile": "Geral/Outros/Viagem Arlanda.md",
+                "bFile": "Geral/Outros/Viagem Arlanda.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Sem título.canvas  (Working Tree)"
+              "title": "Diff: Viagem Arlanda  (Working Tree)"
             }
           }
         ]
@@ -178,11 +178,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57d5f46fee43d1e1",
+  "active": "675ade3daf1faf96",
   "lastOpenFiles": [
+    "Geral/Idiomas/Sueco/Semana 1/alfabetet.md",
+    "Geral/Outros/Viagem Arlanda.md",
     "Sem título.base",
     "Sem título.canvas",
-    "Geral/Outros/Viagem Arlanda.md",
     "Geral/Idiomas/Inglês/Fase 1/Simple present.md",
     "Geral/Idiomas/Inglês/Fase 1/Past continuous.md",
     "Geral/blue/SEBRAE-MS/Documentos do processo/Especificações gerais/03. Especificação - SBMS-FSW-2024-0007 - GESCON_SEF - Requisições Espaço do Fornecedor V2.pdf _manifesto_.pdf",

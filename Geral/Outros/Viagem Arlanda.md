@@ -6,7 +6,7 @@
 		- https://www.skyss.no/en/ site de rotas
 		- Leprosy museum
 		- Bryggen 37, 2 Etasje, 5003 Bergen, Norway (loja de Gaahl) - Galleri Fjalar
-		- Bergenshus fortresss
+		- Bergenshus fortress
 		- kode museu de arte
 		- Gamle bergen museum
 		- bergen domkirke
