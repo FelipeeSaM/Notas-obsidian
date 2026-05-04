@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "67827bffc4b49d57",
+        "id": "f11cba7eefe0a072",
         "type": "tabs",
         "children": [
           {
-            "id": "2fccfaca2e3691a7",
+            "id": "6bcdf02a94812d12",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Geral/Computação/Github Actions/CD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CD"
             }
           }
         ]
@@ -176,10 +180,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2fccfaca2e3691a7",
+  "active": "6bcdf02a94812d12",
   "lastOpenFiles": [
-    "Geral/Computação/Azure/DevOps/CI CD.md",
+    "Geral/Computação/Github Actions/Github CI CD.md",
+    "Geral/Computação/Github Actions/Continuous Integration YML.md",
+    "Geral/Computação/Github Actions/CD.md",
     "Geral/Computação/Azure/DevOps/Deploy no Azure.md",
+    "Geral/Computação/Github Actions",
+    "Geral/Computação/Azure/DevOps/CI CD.md",
     "Geral/Computação/Azure/Segurança/Managed Identities.md",
     "Geral/Computação/Azure/Segurança/RBAC.md",
     "Geral/Computação/Azure/Segurança/Key Vault.md",
@@ -201,9 +209,6 @@
     "2026-05-03.md",
     "Geral/Computação/Azure/Computação/Virtual Machines.md",
     "Geral/Computação/Azure/1. Fundamentos/Resource groups.md",
-    "Geral/Computação/Azure/1. Fundamentos/Regiões.md",
-    "Geral/Computação/Azure/1. Fundamentos/Recursos.md",
-    "Geral/Computação/Azure/1. Fundamentos/Portal Azure.md",
     "Geral/Computação/Azure/DevOps",
     "Geral/Computação/Azure/Segurança",
     "Geral/Computação/Azure/Rede",
@@ -213,7 +218,6 @@
     "Geral/Computação/Azure/1. Fundamentos",
     "Geral/Computação/Azure",
     "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts",
     "Sem título.canvas"
   ]
 }

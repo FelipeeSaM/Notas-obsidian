@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiGitCompareArrows",
       "LiCloud",
       "LiLanguages",
       "LiMessagesSquare",
-      "LiContainer",
-      "LiComputer"
+      "LiContainer"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,6 @@
   "Geral/Computação/Docker": "LiContainer",
   "Geral/Computação/Mensageria": "LiMessagesSquare",
   "Geral/Idiomas": "LiLanguages",
-  "Geral/Computação/Azure": "LiCloud"
+  "Geral/Computação/Azure": "LiCloud",
+  "Geral/Computação/Github Actions": "LiGitCompareArrows"
 }
