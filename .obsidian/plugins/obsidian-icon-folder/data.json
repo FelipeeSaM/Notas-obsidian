@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCloud",
       "LiLanguages",
       "LiMessagesSquare",
       "LiContainer",
-      "LiComputer",
-      "LiAlertOctagon"
+      "LiComputer"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,6 @@
   "Geral/Computação": "LiComputer",
   "Geral/Computação/Docker": "LiContainer",
   "Geral/Computação/Mensageria": "LiMessagesSquare",
-  "Geral/Idiomas": "LiLanguages"
+  "Geral/Idiomas": "LiLanguages",
+  "Geral/Computação/Azure": "LiCloud"
 }
