@@ -1,5 +1,6 @@
 ---
-tags: [github]
+tags:
+  - github
 nivel: basico
 ---
 

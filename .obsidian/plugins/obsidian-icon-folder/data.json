@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCloudCog",
+      "LiBrain",
       "LiGitCompareArrows",
       "LiCloud",
-      "LiLanguages",
-      "LiMessagesSquare",
-      "LiContainer"
+      "LiLanguages"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,7 @@
   "Geral/Computação/Mensageria": "LiMessagesSquare",
   "Geral/Idiomas": "LiLanguages",
   "Geral/Computação/Azure": "LiCloud",
-  "Geral/Computação/Github Actions": "LiGitCompareArrows"
+  "Geral/Computação/Github Actions": "LiGitCompareArrows",
+  "Geral/Computação/IA": "LiBrain",
+  "Geral/Computação/IA/Claude code": "LiCloudCog"
 }
