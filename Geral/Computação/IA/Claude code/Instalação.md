@@ -3,8 +3,6 @@ tags:
   - IA
   - ClaudeCode
 ---
-
-
 Para instalar a [[IA]] do [[Claude]] code, entro no link: https://code.claude.com/docs/en/setup e colo o código para instalar no linux:
 
 ```
@@ -21,3 +19,6 @@ Homebrew installations do not auto-update. Run `brew upgrade claude-code` or `br
 
 Executo o claude apenas digitando:
 claude
+
+## Extensão do vscode:
+Claude Code for VsCode
