@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geral/Computação/IA/Claude code/Instalação.md",
+                "file": "Geral/Computação/IA/Claude code/Claude.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Instalação"
+              "title": "Claude.md"
             }
           }
         ]
@@ -182,10 +182,11 @@
   },
   "active": "f745d79f202f6a5b",
   "lastOpenFiles": [
+    "Geral/Computação/IA/Claude code/Claude.md.md",
     "Geral/Computação/IA/Claude code/Instalação.md",
-    "Geral/Computação/IA/IA.md",
-    "Geral/Computação/IA/Claude code/Claude.md",
     "Geral/Computação/IA/Claude code/Comandos claude.md",
+    "Geral/Computação/IA/Claude code/Claude.md",
+    "Geral/Computação/IA/IA.md",
     "Geral/Computação/Github Actions/Github CI CD.md",
     "Geral/Computação/Github Actions/CD.md",
     "Geral/Computação/Github Actions/Continuous Integration YML.md",
@@ -210,7 +211,6 @@
     "Geral/Computação/Azure/Segurança/Managed Identities.md",
     "Geral/Computação/Azure/Segurança/RBAC.md",
     "Geral/Computação/Azure/Segurança/Key Vault.md",
-    "Geral/Computação/Azure/Segurança/Azure Active Directory (AD).md",
     "Geral/Computação/Azure/DevOps",
     "Geral/Computação/Azure/Segurança",
     "Geral/Computação/Azure/Rede",
