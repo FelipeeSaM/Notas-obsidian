@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geral/Computação/IA/Claude code/Claude.md.md",
+                "file": "Geral/Computação/IA/Claude code/Comandos slash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude.md"
+              "title": "Comandos slash"
             }
           }
         ]
@@ -183,6 +183,7 @@
   "active": "f745d79f202f6a5b",
   "lastOpenFiles": [
     "Geral/Computação/IA/Claude code/Claude.md.md",
+    "Geral/Computação/IA/Claude code/Comandos slash.md",
     "Geral/Computação/IA/Claude code/Instalação.md",
     "Geral/Computação/IA/Claude code/Comandos claude.md",
     "Geral/Computação/IA/Claude code/Claude.md",
@@ -210,7 +211,6 @@
     "Geral/Computação/Azure/DevOps/CI CD.md",
     "Geral/Computação/Azure/Segurança/Managed Identities.md",
     "Geral/Computação/Azure/Segurança/RBAC.md",
-    "Geral/Computação/Azure/Segurança/Key Vault.md",
     "Geral/Computação/Azure/DevOps",
     "Geral/Computação/Azure/Segurança",
     "Geral/Computação/Azure/Rede",
