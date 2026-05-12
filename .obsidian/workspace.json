@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geral/Computação/IA/Claude code/Comandos claude.md",
+                "file": "Geral/Computação/IA/Claude code/Skill.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comandos claude"
+              "title": "Skill"
             }
           }
         ]
@@ -182,14 +182,17 @@
   },
   "active": "f745d79f202f6a5b",
   "lastOpenFiles": [
-    "Geral/Computação/IA/Claude code/Claude.md.md",
-    "Geral/Computação/IA/Claude code/Claude.md",
-    "Geral/Computação/IA/Claude code/Raciocínio.md",
-    "Geral/Computação/IA/Prompt/Prompts.md",
-    "Geral/Computação/IA/Claude code/Planejamento.md",
     "Geral/Computação/IA/Claude code/Instalação.md",
+    "Geral/Computação/IA/Claude code/MCP.md",
+    "Geral/Computação/IA/Claude code/Planejamento.md",
+    "Geral/Computação/IA/Claude code/Raciocínio.md",
+    "Geral/Computação/IA/Claude code/Skill.md",
+    "Geral/Computação/IA/Prompt/Prompts.md",
     "Geral/Computação/IA/Claude code/Comandos slash.md",
+    "Geral/Computação/IA/Geral",
     "Geral/Computação/IA/Claude code/Comandos claude.md",
+    "Geral/Computação/IA/Claude code/Claude.md",
+    "Geral/Computação/IA/Claude code/Claude.md.md",
     "Geral/Outros/mestrado suécia.md",
     "Geral/Computação/IA/Prompt",
     "Geral/Computação/IA/IA.md",
@@ -209,15 +212,12 @@
     "Geral/Idiomas/Inglês/Fase 1/Simple past.md",
     "Geral/Outros/Viagem Arlanda.md",
     "Geral/Computação/Azure/Azure.md",
-    "Geral/Computação/Azure/Computação/Containers.md",
-    "Geral/Computação/Azure/Computação/App Services.md",
     "Geral/Computação/Github Actions",
     "Geral/Computação/Azure/DevOps",
     "Geral/Computação/Azure/Segurança",
     "Geral/Computação/Azure/Rede",
     "Geral/Computação/Azure/Banco de dados",
     "Geral/Computação/Azure/Armazenamento",
-    "Geral/Computação/Azure/Computação",
     "Sem título.canvas"
   ]
 }
