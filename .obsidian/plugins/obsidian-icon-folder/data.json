@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBetweenHorizonalStart",
       "LiCloudCog",
       "LiBrain",
       "LiGitCompareArrows",
-      "LiCloud",
-      "LiLanguages"
+      "LiCloud"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,6 @@
   "Geral/Computação/Azure": "LiCloud",
   "Geral/Computação/Github Actions": "LiGitCompareArrows",
   "Geral/Computação/IA": "LiBrain",
-  "Geral/Computação/IA/Claude code": "LiCloudCog"
+  "Geral/Computação/IA/Claude code": "LiCloudCog",
+  "Geral/Computação/IA/Prompt": "LiBetweenHorizonalStart"
 }

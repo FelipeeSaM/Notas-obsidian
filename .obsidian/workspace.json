@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geral/Outros/mestrado suécia.md",
+                "file": "Geral/Computação/IA/Claude code/Planejamento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mestrado suécia"
+              "title": "Planejamento"
             }
           }
         ]
@@ -182,11 +182,14 @@
   },
   "active": "f745d79f202f6a5b",
   "lastOpenFiles": [
-    "Geral/Computação/IA/Claude code/Comandos slash.md",
-    "Geral/Outros/mestrado suécia.md",
-    "Geral/Computação/IA/Claude code/Claude.md.md",
+    "Geral/Computação/IA/Prompt/Prompts.md",
+    "Geral/Computação/IA/Claude code/Planejamento.md",
     "Geral/Computação/IA/Claude code/Instalação.md",
+    "Geral/Computação/IA/Claude code/Comandos slash.md",
     "Geral/Computação/IA/Claude code/Comandos claude.md",
+    "Geral/Outros/mestrado suécia.md",
+    "Geral/Computação/IA/Prompt",
+    "Geral/Computação/IA/Claude code/Claude.md.md",
     "Geral/Computação/IA/Claude code/Claude.md",
     "Geral/Computação/IA/IA.md",
     "Geral/Computação/Github Actions/Github CI CD.md",
@@ -209,15 +212,12 @@
     "Geral/Computação/Azure/Computação/App Services.md",
     "Geral/Computação/Azure/DevOps/Deploy no Azure.md",
     "Geral/Computação/Github Actions",
-    "Geral/Computação/Azure/DevOps/CI CD.md",
-    "Geral/Computação/Azure/Segurança/Managed Identities.md",
     "Geral/Computação/Azure/DevOps",
     "Geral/Computação/Azure/Segurança",
     "Geral/Computação/Azure/Rede",
     "Geral/Computação/Azure/Banco de dados",
     "Geral/Computação/Azure/Armazenamento",
     "Geral/Computação/Azure/Computação",
-    "Geral/Computação/Azure/1. Fundamentos",
     "Sem título.canvas"
   ]
 }
