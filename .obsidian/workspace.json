@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geral/Computação/IA/Claude code/Raciocínio.md",
+                "file": "Geral/Computação/IA/Claude code/Comandos claude.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raciocínio"
+              "title": "Comandos claude"
             }
           }
         ]
@@ -182,16 +182,16 @@
   },
   "active": "f745d79f202f6a5b",
   "lastOpenFiles": [
-    "Geral/Computação/IA/Claude code/Planejamento.md",
+    "Geral/Computação/IA/Claude code/Claude.md.md",
+    "Geral/Computação/IA/Claude code/Claude.md",
     "Geral/Computação/IA/Claude code/Raciocínio.md",
     "Geral/Computação/IA/Prompt/Prompts.md",
+    "Geral/Computação/IA/Claude code/Planejamento.md",
     "Geral/Computação/IA/Claude code/Instalação.md",
     "Geral/Computação/IA/Claude code/Comandos slash.md",
     "Geral/Computação/IA/Claude code/Comandos claude.md",
     "Geral/Outros/mestrado suécia.md",
     "Geral/Computação/IA/Prompt",
-    "Geral/Computação/IA/Claude code/Claude.md.md",
-    "Geral/Computação/IA/Claude code/Claude.md",
     "Geral/Computação/IA/IA.md",
     "Geral/Computação/Github Actions/Github CI CD.md",
     "Geral/Computação/Github Actions/CD.md",
