@@ -3,6 +3,8 @@ tags:
   - IA
   - ClaudeCode
 ---
+## Planejamento:
+ -  O que fazer
 
 | O que é       | modo de operacao do Claude Code            |
 | ------------- | ------------------------------------------ |
