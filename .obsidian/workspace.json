@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geral/Computação/IA/Prompt/Prompts.md",
+                "file": "Geral/Computação/IA/Prompt/Ralph Wiggum Loop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompts"
+              "title": "Ralph Wiggum Loop"
             }
           }
         ]
@@ -182,20 +182,21 @@
   },
   "active": "f745d79f202f6a5b",
   "lastOpenFiles": [
-    "Geral/Computação/IA/Claude code/Skill.md",
+    "Geral/Computação/IA/Prompt/Prompts.md",
+    "Geral/Computação/IA/Prompt/Ralph Wiggum Loop.md",
     "Geral/Computação/IA/Claude code/Instalação.md",
     "Geral/Computação/IA/Claude code/MCP.md",
     "Geral/Computação/IA/Claude code/Planejamento.md",
     "Geral/Computação/IA/Claude code/Raciocínio.md",
-    "Geral/Computação/IA/Prompt/Prompts.md",
-    "Geral/Computação/IA/Claude code/Comandos slash.md",
-    "Geral/Computação/IA/Geral",
-    "Geral/Computação/IA/Claude code/Comandos claude.md",
+    "Geral/Computação/IA/IA.md",
+    "Geral/Computação/IA/Claude code/Skill.md",
     "Geral/Computação/IA/Claude code/Claude.md",
+    "Geral/Computação/IA/Claude code/Comandos slash.md",
+    "Geral/Computação/IA/Claude code/Comandos claude.md",
     "Geral/Computação/IA/Claude code/Claude.md.md",
+    "Geral/Computação/IA/Geral",
     "Geral/Outros/mestrado suécia.md",
     "Geral/Computação/IA/Prompt",
-    "Geral/Computação/IA/IA.md",
     "Geral/Computação/Github Actions/Github CI CD.md",
     "Geral/Computação/Github Actions/CD.md",
     "Geral/Computação/Github Actions/Continuous Integration YML.md",
@@ -211,7 +212,6 @@
     "Geral/Idiomas/Inglês/Fase 1/Past continuous.md",
     "Geral/Idiomas/Inglês/Fase 1/Simple past.md",
     "Geral/Outros/Viagem Arlanda.md",
-    "Geral/Computação/Azure/Azure.md",
     "Geral/Computação/Github Actions",
     "Geral/Computação/Azure/DevOps",
     "Geral/Computação/Azure/Segurança",
