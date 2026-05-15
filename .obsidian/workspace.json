@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "76c8e3cea45e1f50",
+        "id": "66b08d4abee5d721",
         "type": "tabs",
         "children": [
           {
-            "id": "f745d79f202f6a5b",
+            "id": "962f1fb308cabee1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Geral/Computação/IA/Prompt/Ralph Wiggum Loop.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Ralph Wiggum Loop"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -180,10 +180,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f745d79f202f6a5b",
+  "active": "962f1fb308cabee1",
   "lastOpenFiles": [
-    "Geral/Computação/IA/Prompt/Prompts.md",
+    "Geral/Computação/IA/Claude code/Artefatos/Context7.md",
+    "Pasted image 20260515041634.png",
+    "Pasted image 20260515041650.png",
+    "Pasted image 20260515041648.png",
+    "Geral/Computação/IA/Claude code/Artefatos/Context-mode.md",
     "Geral/Computação/IA/Prompt/Ralph Wiggum Loop.md",
+    "Geral/Computação/IA/Claude code/Artefatos",
+    "Geral/Computação/IA/Prompt/Prompts.md",
     "Geral/Computação/IA/Claude code/Instalação.md",
     "Geral/Computação/IA/Claude code/MCP.md",
     "Geral/Computação/IA/Claude code/Planejamento.md",
@@ -209,15 +215,11 @@
     "Geral/Computação/Computação.md",
     "Geral/Idiomas/Inglês/Inglês.md",
     "Geral/Idiomas/Inglês/Fase 1/Simple present.md",
-    "Geral/Idiomas/Inglês/Fase 1/Past continuous.md",
-    "Geral/Idiomas/Inglês/Fase 1/Simple past.md",
-    "Geral/Outros/Viagem Arlanda.md",
     "Geral/Computação/Github Actions",
     "Geral/Computação/Azure/DevOps",
     "Geral/Computação/Azure/Segurança",
     "Geral/Computação/Azure/Rede",
     "Geral/Computação/Azure/Banco de dados",
-    "Geral/Computação/Azure/Armazenamento",
     "Sem título.canvas"
   ]
 }
