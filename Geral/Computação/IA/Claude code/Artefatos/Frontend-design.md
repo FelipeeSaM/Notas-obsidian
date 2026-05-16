@@ -1,0 +1,10 @@
+---
+tags:
+  - IA
+  - ClaudeCode
+  - Claude-plugin
+---
+## Para que serve
+Evitar que a IA faça aqueles templates, cores e fontes genéricas.
+
+https://claude.com/plugins/frontend-design

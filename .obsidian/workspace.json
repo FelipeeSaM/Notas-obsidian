@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "66b08d4abee5d721",
+        "id": "2293043d4eccc17d",
         "type": "tabs",
         "children": [
           {
-            "id": "962f1fb308cabee1",
+            "id": "dafe4cf80f8e2c41",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Geral/Computação/IA/Claude code/Artefatos/Frontend-design.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Frontend-design"
             }
           }
         ]
@@ -180,13 +180,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "962f1fb308cabee1",
+  "active": "dafe4cf80f8e2c41",
   "lastOpenFiles": [
     "Geral/Computação/IA/Claude code/Artefatos/Context7.md",
+    "Geral/Computação/IA/Claude code/Artefatos/Frontend-design.md",
+    "Geral/Computação/IA/Claude code/Artefatos/Context-mode.md",
+    "Geral/Computação/IA/Claude code/Artefatos/Skill-creation.md",
     "Pasted image 20260515041634.png",
     "Pasted image 20260515041650.png",
     "Pasted image 20260515041648.png",
-    "Geral/Computação/IA/Claude code/Artefatos/Context-mode.md",
     "Geral/Computação/IA/Prompt/Ralph Wiggum Loop.md",
     "Geral/Computação/IA/Claude code/Artefatos",
     "Geral/Computação/IA/Prompt/Prompts.md",
@@ -214,7 +216,6 @@
     "Geral/Computação/Azure/1. Fundamentos/Azure CLI.md",
     "Geral/Computação/Computação.md",
     "Geral/Idiomas/Inglês/Inglês.md",
-    "Geral/Idiomas/Inglês/Fase 1/Simple present.md",
     "Geral/Computação/Github Actions",
     "Geral/Computação/Azure/DevOps",
     "Geral/Computação/Azure/Segurança",
