@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geral/Computação/IA/Claude code/Artefatos/Frontend-design.md",
+                "file": "Geral/Computação/IA/Claude code/Sub-agents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frontend-design"
+              "title": "Sub-agents"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "dafe4cf80f8e2c41",
   "lastOpenFiles": [
-    "Geral/Computação/IA/Claude code/Artefatos/Context7.md",
     "Geral/Computação/IA/Claude code/Artefatos/Frontend-design.md",
+    "Geral/Computação/IA/Claude code/Sub-agents.md",
+    "Geral/Computação/IA/Claude code/Artefatos/Context7.md",
     "Geral/Computação/IA/Claude code/Artefatos/Context-mode.md",
     "Geral/Computação/IA/Claude code/Artefatos/Skill-creation.md",
     "Pasted image 20260515041634.png",
@@ -215,7 +216,6 @@
     "Geral/Computação/Azure/1. Fundamentos/O que é azure.md",
     "Geral/Computação/Azure/1. Fundamentos/Azure CLI.md",
     "Geral/Computação/Computação.md",
-    "Geral/Idiomas/Inglês/Inglês.md",
     "Geral/Computação/Github Actions",
     "Geral/Computação/Azure/DevOps",
     "Geral/Computação/Azure/Segurança",
