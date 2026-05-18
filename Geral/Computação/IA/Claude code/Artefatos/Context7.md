@@ -5,7 +5,7 @@ tags:
   - MCP
 ---
 ## O que é:
-Context7 é um servidor MCP que entrega documentagiio atualizada e exemplos de código
+Context7 é um servidor MCP que entrega documentação atualizada e exemplos de código
 especificos por versão diretamente nos seus prompts. Ele resolve um problema comum com
 LLMs: dados de treinamento desatualizados que levam a APIs alucinadas e padrões de
 códigos obsoletos. Basicamente obtém a documentação mais atualizada das linguagens e frameworks.
