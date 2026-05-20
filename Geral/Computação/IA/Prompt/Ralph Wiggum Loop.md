@@ -2,6 +2,16 @@
 tags:
   - IA
 ---
+## Instalar:
+```
+/plugin install ralph-loop@claude-plugins-official
+```
+
+## Usar:
+```
+/ralph-loop:ralph-loop "Improve project, add user management, kanban boards..."
+```
+
 O **Loop Ralph Wiggum** ==é uma técnica autônoma de agente de IA (frequentemente implementada com Claude Code) que executa o mesmo comando ou tarefa em um loop contínuo até que um objetivo seja alcançado==. Nomeada em homenagem ao personagem de Os Simpsons, a técnica foca na "persistência alegre" de continuar tentando, falhando e aprendendo iterativamente.
 Como Funciona
 

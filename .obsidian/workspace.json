@@ -11,10 +11,14 @@
             "id": "dafe4cf80f8e2c41",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Geral/Computação/IA/Prompt/Ralph Wiggum Loop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ralph Wiggum Loop"
             }
           }
         ]
@@ -178,12 +182,12 @@
   },
   "active": "dafe4cf80f8e2c41",
   "lastOpenFiles": [
-    "Geral/Computação/IA/Claude code/Artefatos/Brainstorm.md",
-    "Geral/Computação/IA/Claude code/Artefatos/Context-mode.md",
-    "Geral/Computação/IA/Claude code/Artefatos/Context7.md",
     "Geral/Computação/IA/Claude code/Artefatos/Skill-creation.md",
     "Geral/Computação/IA/Claude code/Artefatos/Planning.md",
     "Geral/Computação/IA/Claude code/Artefatos/Frontend-design.md",
+    "Geral/Computação/IA/Claude code/Artefatos/Context7.md",
+    "Geral/Computação/IA/Claude code/Artefatos/Context-mode.md",
+    "Geral/Computação/IA/Claude code/Artefatos/Brainstorm.md",
     "Geral/Computação/IA/Claude code/Orquestrador.md",
     "Geral/Computação/IA/Claude code/Sub-agents.md",
     "Pasted image 20260515041634.png",
