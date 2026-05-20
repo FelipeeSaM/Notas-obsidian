@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geral/Computação/IA/Claude code/TDD com claude.md",
+                "file": "Geral/Computação/IA/Claude code/Débito técnico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TDD com claude"
+              "title": "Débito técnico"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "dafe4cf80f8e2c41",
   "lastOpenFiles": [
-    "Pasted image 20260520035832.png",
     "Geral/Computação/IA/Claude code/TDD com claude.md",
+    "Geral/Computação/IA/Claude code/Débito técnico.md",
+    "Pasted image 20260520035832.png",
     "Geral/Computação/IA/Prompt/Ralph Wiggum Loop.md",
     "Geral/Computação/IA/Claude code/Artefatos/Skill-creation.md",
     "Geral/Computação/IA/Claude code/Artefatos/Planning.md",
