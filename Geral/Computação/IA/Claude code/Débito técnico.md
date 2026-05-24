@@ -3,7 +3,7 @@ tags:
   - IA
   - ClaudeCode
 ---
-Prompts para avaliar o débito técnico de funções, classes ou projetos:
+Prompts para avaliar o débito técnico de funções, classes ou projetos: 
 
 ### Arquivo unico:
 cat src/auth/validators.py | claude
