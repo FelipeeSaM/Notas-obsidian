@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geral/Computação/IA/Claude code/Instalação.md",
+                "file": "Geral/Aplicativo/Building/Building tópicos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Instalação"
+              "title": "Building tópicos"
             }
           }
         ]
@@ -182,6 +182,11 @@
   },
   "active": "dafe4cf80f8e2c41",
   "lastOpenFiles": [
+    "Geral/Computação/IA/Claude code/Instalação.md",
+    "Geral/Aplicativo/Building/Building tópicos.md",
+    "Geral/Aplicativo/Building",
+    "Geral/Aplicativo/Ideias",
+    "Geral/Aplicativo",
     "Geral/Computação/IA/Claude code/Débito técnico.md",
     "Geral/Computação/IA/Claude code/TDD com claude.md",
     "Pasted image 20260520035832.png",
@@ -199,7 +204,6 @@
     "Pasted image 20260515041648.png",
     "Geral/Computação/IA/Claude code/Artefatos",
     "Geral/Computação/IA/Prompt/Prompts.md",
-    "Geral/Computação/IA/Claude code/Instalação.md",
     "Geral/Computação/IA/Claude code/MCP.md",
     "Geral/Computação/IA/Claude code/Planejamento.md",
     "Geral/Computação/IA/Claude code/Raciocínio.md",
@@ -214,14 +218,10 @@
     "Geral/Computação/IA/Prompt",
     "Geral/Computação/Github Actions/Github CI CD.md",
     "Geral/Computação/Github Actions/CD.md",
-    "Geral/Computação/Github Actions/Continuous Integration YML.md",
     "Geral/Computação/IA/Claude code",
     "Geral/Computação/IA",
     "Geral/Computação/Github Actions",
     "Geral/Computação/Azure/DevOps",
-    "Geral/Computação/Azure/Segurança",
-    "Geral/Computação/Azure/Rede",
-    "Geral/Computação/Azure/Banco de dados",
     "Sem título.canvas"
   ]
 }
