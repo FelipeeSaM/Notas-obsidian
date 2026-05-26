@@ -11,3 +11,4 @@ tags:
 6. Perigos (verificar o STRIDE (security) no wikipedia)
 7. Vulnerabilidades: checar no OWASP
 8. Tópicos a serem considerados na segurança: Encriptação, autenticação, controle de acesso, audição de logs, rate limiting
+9. No cadastro do pet, informar as características
