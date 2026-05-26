@@ -4,3 +4,10 @@ tags:
   - Features
 ---
 1. YARP para OAUTH além do balanceador de carga (tokens JWT)
+2. Checar DDOs
+3. Balanço de carga
+4. Google analytcs
+5. Trust boudaries
+6. Perigos (verificar o STRIDE (security) no wikipedia)
+7. Vulnerabilidades: checar no OWASP
+8. Tópicos a serem considerados na segurança: Encriptação, autenticação, controle de acesso, audição de logs, rate limiting
