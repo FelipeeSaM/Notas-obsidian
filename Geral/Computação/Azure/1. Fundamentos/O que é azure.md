@@ -1,6 +1,7 @@
 ---
 tags:
   - azure
+  - computação
 nivel: basico
 ---
 ---

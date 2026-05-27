@@ -2,4 +2,5 @@
 tags:
   - IA
   - ClaudeCode
+  - computação
 ---

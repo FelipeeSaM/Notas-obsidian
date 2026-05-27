@@ -1,5 +1,7 @@
 ---
-tags: [github]
+tags:
+  - github
+  - computação
 nivel: basico
 ---
 ---

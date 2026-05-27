@@ -3,6 +3,7 @@ tags:
   - IA
   - ClaudeCode
   - Claude-plugin
+  - computação
 ---
 https://skillsmp.com/pt/skills/obra-superpowers-skills-brainstorming-skill-md
 

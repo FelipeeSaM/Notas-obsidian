@@ -2,6 +2,7 @@
 tags:
   - IA
   - ClaudeCode
+  - computação
 ---
 Consiste em 6 passos:
 1. Requisito (entender o que quer implementar)

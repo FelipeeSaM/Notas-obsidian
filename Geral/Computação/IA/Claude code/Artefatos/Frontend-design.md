@@ -3,6 +3,7 @@ tags:
   - IA
   - ClaudeCode
   - Claude-plugin
+  - computação
 ---
 ## Para que serve
 Evitar que a IA faça aqueles templates, cores e fontes genéricas.

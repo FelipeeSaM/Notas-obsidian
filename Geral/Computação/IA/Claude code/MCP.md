@@ -2,6 +2,7 @@
 tags:
   - IA
   - ClaudeCode
+  - computação
 ---
 
 # MCP (Model Context Protocol) — Cheat Sheet  

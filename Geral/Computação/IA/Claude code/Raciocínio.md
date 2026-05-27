@@ -2,6 +2,7 @@
 tags:
   - IA
   - ClaudeCode
+  - computação
 ---
 ## Racicínio:
  - Como fazer.

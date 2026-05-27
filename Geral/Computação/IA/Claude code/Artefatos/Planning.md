@@ -3,6 +3,7 @@ tags:
   - IA
   - ClaudeCode
   - Claude-plugin
+  - computação
 ---
 
 

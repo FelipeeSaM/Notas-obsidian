@@ -3,6 +3,7 @@ tags:
   - IA
   - ClaudeCode
   - Claude-plugin
+  - computação
 ---
 ## Para que serve
 Diminui E MUITO o consumo de toke

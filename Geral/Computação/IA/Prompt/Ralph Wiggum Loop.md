@@ -1,6 +1,7 @@
 ---
 tags:
   - IA
+  - computação
 ---
 ## Instalar:
 ```

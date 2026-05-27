@@ -3,6 +3,7 @@ tags:
   - IA
   - ClaudeCode
   - MCP
+  - computação
 ---
 ## O que é:
 Context7 é um servidor MCP que entrega documentação atualizada e exemplos de código

@@ -1,6 +1,8 @@
 ---
-tags: [azure]  
-nivel: basico  
+tags:
+  - azure
+  - computação
+nivel: basico
 ---
 # Azure CLI
 

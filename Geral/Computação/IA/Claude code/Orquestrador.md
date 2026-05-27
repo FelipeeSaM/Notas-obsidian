@@ -2,6 +2,7 @@
 tags:
   - IA
   - ClaudeCode
+  - computação
 ---
 ## O que é
 Um orquestrador de sub-agents no Claude Code funciona como um “Tech Lead automático”.

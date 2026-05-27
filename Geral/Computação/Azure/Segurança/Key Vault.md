@@ -1,5 +1,7 @@
 ---
-tags: [azure]
+tags:
+  - azure
+  - computação
 nivel: basico
 ---
 

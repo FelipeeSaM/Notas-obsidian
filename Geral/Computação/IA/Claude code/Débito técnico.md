@@ -2,6 +2,7 @@
 tags:
   - IA
   - ClaudeCode
+  - computação
 ---
 Prompts para avaliar o débito técnico de funções, classes ou projetos: 
 

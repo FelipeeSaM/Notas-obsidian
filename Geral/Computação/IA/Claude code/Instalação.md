@@ -2,6 +2,7 @@
 tags:
   - IA
   - ClaudeCode
+  - computação
 ---
 Para instalar a [[IA]] do [[Claude]] code, entro no link: https://code.claude.com/docs/en/setup e colo o código para instalar no linux:
 

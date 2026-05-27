@@ -2,6 +2,7 @@
 tags:
   - IA
   - ClaudeCode
+  - computação
 ---
 
 | Recurso     | O que faz                        | Quando usar                         |
