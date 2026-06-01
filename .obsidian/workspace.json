@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geral/Aplicativo/Ideias/App ideias.md",
+                "file": "Geral/Aplicativo/Building/Building tópicos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "App ideias"
+              "title": "Building tópicos"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "dafe4cf80f8e2c41",
   "lastOpenFiles": [
-    "Geral/Aplicativo/Building/Building tópicos.md",
     "Geral/Aplicativo/Ideias/App ideias.md",
+    "Geral/Aplicativo/Building/Building tópicos.md",
     "Geral/Computação/IA/Prompt/Engenharia de prompt.md",
     "Geral/Computação/Azure/Azure.md",
     "Geral/Computação/Azure/Segurança/RBAC.md",
