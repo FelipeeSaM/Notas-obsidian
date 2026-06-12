@@ -18,3 +18,5 @@ tags:
 13. Código simples, abstração
 14. general properties like security, reliability, compliance, scalability, compatibility and
 maintainability)
+15. Auditoria
+16. 
