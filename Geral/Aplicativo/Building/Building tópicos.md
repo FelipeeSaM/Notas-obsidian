@@ -19,4 +19,4 @@ tags:
 14. general properties like security, reliability, compliance, scalability, compatibility and
 maintainability)
 15. Auditoria
-16. 
+16. Sugestão: API gateway + vertical slice + cache-aside + polly + circuit breaker + elastic stack
