@@ -23,3 +23,4 @@ maintainability)
 17. logar tentativas de acesso
 18. Usar open telemetry com zipkin
 19. Rate limiting por ip com resposta 429
+20. init container que roda apenas migrations e encerra o container
