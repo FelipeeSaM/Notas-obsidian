@@ -22,3 +22,4 @@ maintainability)
 16. Sugestão: API gateway + vertical slice + cache-aside + polly + circuit breaker + elastic stack
 17. logar tentativas de acesso
 18. Usar open telemetry com zipkin
+19. Rate limiting por ip com resposta 429
