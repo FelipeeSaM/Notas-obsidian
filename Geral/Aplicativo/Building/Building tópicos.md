@@ -24,3 +24,4 @@ maintainability)
 18. Usar open telemetry com zipkin
 19. Rate limiting por ip com resposta 429
 20. init container que roda apenas migrations e encerra o container
+21. Cuidar do CSRF, utilizar o AntiForgery tokens do asp.net core
