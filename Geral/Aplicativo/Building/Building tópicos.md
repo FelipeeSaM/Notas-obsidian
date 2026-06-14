@@ -24,4 +24,9 @@ maintainability)
 18. Usar open telemetry com zipkin
 19. Rate limiting por ip com resposta 429
 20. init container que roda apenas migrations e encerra o container
-21. Cuidar do CSRF, utilizar o AntiForgery tokens do asp.net core
+21. Cuidar do CSRF, utilizar o AntiForgery tokens do asp.net core (\[ValidateAntiForgeryToken/])
+22. Factory Method define interface para criar objetos, deixando subclasses decidirem qual classe instanciar — uma factory por produto. Abstract Factory cria famílias de objetos relacionados sem especificar classes concretas — múltiplas factories para produtos relacionados. Abstract Factory é uma coleção coordenada de Factory Methods.
+
+Contexto e dica de entrevista
+
+Factory Method: INotificationFactory com EmailNotificationFactory e SmsNotificationFactory — cada uma cria um tipo de notificação. Abstract Factory: IUIComponentFactory com WindowsFactory (cria Button, Checkbox, ScrollBar Windows-style) e MacFactory (cria os mesmos mas Mac-style) — família coesa de objetos. Em .NET, IServiceProvider é uma Abstract Factory gerenciada pelo runtime.
