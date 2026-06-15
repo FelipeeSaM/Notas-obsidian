@@ -4,7 +4,7 @@ tags:
   - ClaudeCode
   - computação
 ---
-## Comandos que todo usuário precisa conhecer
+## Comandos que todo usuário precisa conhecer 
 
 # Abrir os chats (como no copilot do vscode): /resume
 
