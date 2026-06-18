@@ -11,14 +11,14 @@
             "id": "dafe4cf80f8e2c41",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Geral/Aplicativo/Building/Building tópicos.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/core-plugins.json",
+                "bFile": ".obsidian/core-plugins.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Building tópicos"
+              "icon": "diff",
+              "title": "Diff: core-plugins.json  (Working Tree)"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "dafe4cf80f8e2c41",
   "lastOpenFiles": [
-    "Geral/Aplicativo/Ideias/App ideias.md",
     "Geral/Aplicativo/Building/Building tópicos.md",
+    "Geral/Aplicativo/Ideias/App ideias.md",
     "Geral/Computação/IA/Prompt/Engenharia de prompt.md",
     "Geral/Computação/Azure/Azure.md",
     "Geral/Computação/Azure/Segurança/RBAC.md",
