@@ -29,6 +29,7 @@ maintainability)
 23. Utilizar o padrão/regra "leftmost prefix" para organizar as propriedades dos objetos e as colunas no banco
 24. Ver a necessidade de implementar o rate limiting do redis com o padrão tocken bucket. Configurar no YARP E no redis (defesa em profundidade)
 25. Não rodar migrateAsync()
+26. Evitar falhas básicas de segurança: autenticação, autorização e controle de acesso
 
 Contexto e dica de entrevista
 

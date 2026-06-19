@@ -11,14 +11,14 @@
             "id": "dafe4cf80f8e2c41",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/core-plugins.json",
-                "bFile": ".obsidian/core-plugins.json",
-                "aRef": ""
+                "file": "Geral/Aplicativo/Building/Building tópicos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: core-plugins.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Building tópicos"
             }
           }
         ]
