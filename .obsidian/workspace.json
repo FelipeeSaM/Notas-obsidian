@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geral/Aplicativo/Ideias/App ideias.md",
+                "file": "Geral/Idiomas/Sueco/Curso 1/Módulo 1/Alfabeto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "App ideias"
+              "title": "Alfabeto"
             }
           }
         ]
@@ -182,8 +182,11 @@
   },
   "active": "dafe4cf80f8e2c41",
   "lastOpenFiles": [
-    "Geral/Aplicativo/Building/Building tópicos.md",
     "Geral/Aplicativo/Ideias/App ideias.md",
+    "Geral/Idiomas/Sueco/Curso 1/Módulo 1/Alfabeto.md",
+    "Geral/Idiomas/Sueco/Curso 1/Módulo 1",
+    "Geral/Idiomas/Sueco/Curso 1",
+    "Geral/Aplicativo/Building/Building tópicos.md",
     "Geral/Computação/IA/Prompt/Engenharia de prompt.md",
     "Geral/Computação/Azure/Azure.md",
     "Geral/Computação/Azure/Segurança/RBAC.md",
@@ -207,7 +210,6 @@
     "Geral/Computação/Azure/Armazenamento/Blob Storage.md",
     "Geral/Computação/Azure/1. Fundamentos/Resource groups.md",
     "Geral/Computação/Azure/1. Fundamentos/Regiões.md",
-    "Geral/Computação/Azure/1. Fundamentos/Recursos.md",
     "Geral/Aplicativo/Building",
     "Geral/Aplicativo/Ideias",
     "Geral/Aplicativo",
@@ -220,8 +222,6 @@
     "Geral/Computação/IA/Prompt",
     "Geral/Computação/IA/Claude code",
     "Geral/Computação/IA",
-    "Geral/Computação/Github Actions",
-    "Geral/Computação/Azure/DevOps",
     "Sem título.canvas"
   ]
 }
