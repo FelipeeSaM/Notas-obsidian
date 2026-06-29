@@ -10,4 +10,4 @@
 
 Ödla: largato
 Öga: olho
-Öra: orelha
+Öra: orelha 
