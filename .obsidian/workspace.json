@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geral/Idiomas/Sueco/Curso 1/Módulo 1/Alfabeto.md",
+                "file": "Geral/Aplicativo/Building/Building tópicos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alfabeto"
+              "title": "Building tópicos"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "dafe4cf80f8e2c41",
   "lastOpenFiles": [
-    "Geral/Aplicativo/Ideias/App ideias.md",
+    "Geral/Computação/Docker/Compose/Buildando.md",
     "Geral/Idiomas/Sueco/Curso 1/Módulo 1/Alfabeto.md",
+    "Geral/Aplicativo/Ideias/App ideias.md",
     "Geral/Idiomas/Sueco/Curso 1/Módulo 1",
     "Geral/Idiomas/Sueco/Curso 1",
     "Geral/Aplicativo/Building/Building tópicos.md",
@@ -209,7 +210,6 @@
     "Geral/Computação/Azure/Armazenamento/Storage Account.md",
     "Geral/Computação/Azure/Armazenamento/Blob Storage.md",
     "Geral/Computação/Azure/1. Fundamentos/Resource groups.md",
-    "Geral/Computação/Azure/1. Fundamentos/Regiões.md",
     "Geral/Aplicativo/Building",
     "Geral/Aplicativo/Ideias",
     "Geral/Aplicativo",

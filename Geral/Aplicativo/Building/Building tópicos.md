@@ -24,12 +24,11 @@ maintainability)
 18. Usar open telemetry com zipkin
 19. Rate limiting por ip com resposta 429
 20. init container que roda apenas migrations e encerra o container
-21. Cuidar do CSRF, utilizar o AntiForgery tokens do asp.net core (\[ValidateAntiForgeryToken/])
-22. Factory Method define interface para criar objetos, deixando subclasses decidirem qual classe instanciar — uma factory por produto. Abstract Factory cria famílias de objetos relacionados sem especificar classes concretas — múltiplas factories para produtos relacionados. Abstract Factory é uma coleção coordenada de Factory Methods.
-23. Utilizar o padrão/regra "leftmost prefix" para organizar as propriedades dos objetos e as colunas no banco
-24. Ver a necessidade de implementar o rate limiting do redis com o padrão tocken bucket. Configurar no YARP E no redis (defesa em profundidade)
-25. Não rodar migrateAsync()
-26. Evitar falhas básicas de segurança: autenticação, autorização e controle de acesso
+21. Factory Method define interface para criar objetos, deixando subclasses decidirem qual classe instanciar — uma factory por produto. Abstract Factory cria famílias de objetos relacionados sem especificar classes concretas — múltiplas factories para produtos relacionados. Abstract Factory é uma coleção coordenada de Factory Methods.
+22. Utilizar o padrão/regra "leftmost prefix" para organizar as propriedades dos objetos e as colunas no banco
+23. Ver a necessidade de implementar o rate limiting do redis com o padrão tocken bucket. Configurar no YARP E no redis (defesa em profundidade)
+24. Não rodar migrateAsync()
+25. Evitar falhas básicas de segurança: autenticação, autorização e controle de acesso
 
 Contexto e dica de entrevista
 
