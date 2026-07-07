@@ -29,6 +29,7 @@ maintainability)
 23. Ver a necessidade de implementar o rate limiting do redis com o padrão tocken bucket. Configurar no YARP E no redis (defesa em profundidade)
 24. Não rodar migrateAsync()
 25. Evitar falhas básicas de segurança: autenticação, autorização e controle de acesso
+26. FALTA><<<><><><><><><><> **`AtualizarFcmToken`** — Command pequeno mas crítico. Toda vez que o Flutter inicializa, ele chama esse endpoint para garantir que o token do dispositivo está atualizado no banco. Sem isso o push notification não funciona.
 
 Contexto e dica de entrevista
 
