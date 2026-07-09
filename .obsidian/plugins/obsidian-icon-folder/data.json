@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDices",
       "LiCat",
       "LiBetweenHorizonalStart",
       "LiCloudCog",
-      "LiBrain",
-      "LiGitCompareArrows"
+      "LiBrain"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,6 @@
   "Geral/Computação/IA": "LiBrain",
   "Geral/Computação/IA/Claude code": "LiCloudCog",
   "Geral/Computação/IA/Prompt": "LiBetweenHorizonalStart",
-  "Geral/Aplicativo": "LiCat"
+  "Geral/Aplicativo": "LiCat",
+  "Geral/Computação/Linux": "LiDices"
 }
