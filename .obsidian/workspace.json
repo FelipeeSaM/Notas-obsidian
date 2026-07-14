@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geral/Computação/Linux/Scripts/fix-gpu-clock.sh.md",
+                "file": "Geral/Computação/IA/Claude code/Artefatos/skills-site.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fix-gpu-clock.sh"
+              "title": "skills-site"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 294.5
   },
   "right": {
     "id": "85251c0a333dc462",
@@ -182,36 +182,36 @@
   },
   "active": "dafe4cf80f8e2c41",
   "lastOpenFiles": [
-    "Geral/Computação/Linux/Scripts/plasma-top-panel.sh.md",
+    "Geral/Computação/IA/Claude code/Comandos slash.md",
+    "Geral/Computação/IA/Claude code/Artefatos/skills-site.md",
+    "Geral/Computação/IA/Claude code/Comandos claude.md",
+    "Geral/Computação/IA/Claude code/Claude.md.md",
+    "Geral/Computação/IA/Claude code/Claude.md",
+    "Geral/Computação/IA/Claude code/Artefatos/Brainstorm.md",
+    "Geral/Computação/IA/Claude code/Artefatos/Skill-creation.md",
+    "Geral/Computação/IA/Claude code/Artefatos/Planning.md",
+    "Geral/Computação/IA/Claude code/Artefatos/Context7.md",
+    "Geral/Computação/IA/Claude code/Artefatos/Context-mode.md",
+    "Geral/Computação/IA/Claude code/TDD com claude.md",
+    "Geral/Computação/IA/Prompt/Ralph Wiggum Loop.md",
+    "Geral/Computação/IA/Prompt/Prompts.md",
+    "Geral/Computação/IA/Claude code/Sub-agents.md",
+    "Geral/Computação/IA/Claude code/Skill.md",
+    "Geral/Computação/IA/Claude code/Planejamento.md",
+    "Geral/Computação/IA/Claude code/Raciocínio.md",
+    "Geral/Computação/IA/Claude code/Orquestrador.md",
+    "Geral/Computação/IA/Claude code/MCP.md",
+    "Geral/Computação/IA/Claude code/Instalação.md",
+    "Geral/Computação/IA/Claude code/Débito técnico.md",
     "Geral/Computação/Linux/Scripts/fix-gpu-clock.sh.md",
+    "Geral/Computação/Linux/Scripts/plasma-top-panel.sh.md",
     "Geral/Aplicativo/Building/Building tópicos.md",
     "Geral/Computação/Linux/Scripts",
     "Geral/Computação/Linux",
     "Geral/Aplicativo/Ideias/App ideias.md",
     "Geral/Computação/Docker/Compose/Buildando.md",
-    "Geral/Idiomas/Sueco/Curso 1/Módulo 1/Alfabeto.md",
     "Geral/Idiomas/Sueco/Curso 1/Módulo 1",
     "Geral/Idiomas/Sueco/Curso 1",
-    "Geral/Computação/IA/Prompt/Engenharia de prompt.md",
-    "Geral/Computação/Azure/Azure.md",
-    "Geral/Computação/Azure/Segurança/RBAC.md",
-    "Geral/Computação/Azure/Segurança/Managed Identities.md",
-    "Geral/Computação/Azure/Segurança/Key Vault.md",
-    "Geral/Computação/Azure/Segurança/Azure Active Directory (AD).md",
-    "Geral/Computação/Azure/Rede/Virtual Network.md",
-    "Geral/Computação/Azure/Rede/Subnets.md",
-    "Geral/Computação/Azure/Rede/Network Security Groups.md",
-    "Geral/Computação/Azure/Rede/Load Balancer.md",
-    "Geral/Computação/Azure/Rede/Application Gateway.md",
-    "Geral/Computação/Azure/DevOps/Deploy no Azure.md",
-    "Geral/Computação/Azure/DevOps/CI CD.md",
-    "Geral/Computação/Azure/Computação/Virtual Machines.md",
-    "Geral/Computação/Azure/Computação/Containers.md",
-    "Geral/Computação/Azure/Computação/Azure Functions.md",
-    "Geral/Computação/Azure/Computação/App Services.md",
-    "Geral/Computação/Azure/Banco de dados/Cosmos DB.md",
-    "Geral/Computação/Azure/Banco de dados/Azure SQL Database.md",
-    "Geral/Computação/Azure/Armazenamento/Storage Account.md",
     "Geral/Aplicativo/Building",
     "Geral/Aplicativo/Ideias",
     "Geral/Aplicativo",
