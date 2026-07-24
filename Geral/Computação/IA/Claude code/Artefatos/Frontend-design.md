@@ -6,7 +6,7 @@ tags:
   - computação
 ---
 ## Para que serve
-Evitar que a IA faça aqueles templates, cores e fontes genéricas.
+Evitar que a IA faça aqueles templates, cores e fontes genéricas. 
 
 https://claude.com/plugins/frontend-design
 
