@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geral/Computação/IA/Claude code/Artefatos/Frontend-design.md",
+                "file": "Geral/Aplicativo/Building/DIFERENCAS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frontend-design"
+              "title": "DIFERENCAS"
             }
           }
         ]
@@ -182,6 +182,8 @@
   },
   "active": "dafe4cf80f8e2c41",
   "lastOpenFiles": [
+    "Geral/Computação/IA/Claude code/Artefatos/Frontend-design.md",
+    "Geral/Aplicativo/Building/DIFERENCAS.md",
     "Geral/Computação/IA/Claude code/Artefatos/skills-site.md",
     "Geral/Computação/IA/Claude code/Comandos slash.md",
     "Geral/Computação/IA/Claude code/Comandos claude.md",
@@ -208,8 +210,6 @@
     "Geral/Aplicativo/Building/Building tópicos.md",
     "Geral/Computação/Linux/Scripts",
     "Geral/Computação/Linux",
-    "Geral/Aplicativo/Ideias/App ideias.md",
-    "Geral/Computação/Docker/Compose/Buildando.md",
     "Geral/Idiomas/Sueco/Curso 1/Módulo 1",
     "Geral/Idiomas/Sueco/Curso 1",
     "Geral/Aplicativo/Building",
