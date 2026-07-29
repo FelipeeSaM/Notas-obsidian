@@ -39,7 +39,7 @@ O `azd` lê o `AppHost`, substitui containers locais pelos recursos Azure equiva
 
 ---
 
-## Migrations — nunca no startup em produção
+## Migrations — nunca no startup em produção 
 
 O `MigrateAsync()` no startup causa problemas em produção:
 - **Race condition** se múltiplas instâncias sobem simultaneamente
