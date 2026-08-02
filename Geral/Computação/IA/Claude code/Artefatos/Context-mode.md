@@ -10,7 +10,7 @@ Diminui E MUITO o consumo de toke
 
 ## Site:
 https://github.com/mksglu/context-mode
-## Instalação
+## Instalação 
 1. Verificar a versão do claude: `brew upgrade claude-code`
 2. `/plugin marketplace add mksglu/context-mode`
 3. `/plugin install context-mode@context-mode`
