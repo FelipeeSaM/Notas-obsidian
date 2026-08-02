@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geral/Computação/IA/Claude code/Artefatos/Context-mode.md",
+                "file": "Geral/Aplicativo/Building/DIFERENCAS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Context-mode"
+              "title": "DIFERENCAS"
             }
           }
         ]
@@ -184,6 +184,7 @@
   },
   "active": "dafe4cf80f8e2c41",
   "lastOpenFiles": [
+    "Geral/Computação/IA/Claude code/Artefatos/Context-mode.md",
     "Geral/Computação/IA/Claude code/Artefatos/Brainstorm.md",
     "Geral/Computação/IA/Claude code/Artefatos/Skill-creation.md",
     "Geral/Computação/IA/Claude code/Artefatos/Context7.md",
@@ -195,7 +196,6 @@
     "Geral/Computação/IA/Claude code/Claude.md.md",
     "Geral/Computação/IA/Claude code/Claude.md",
     "Geral/Computação/IA/Claude code/Artefatos/Planning.md",
-    "Geral/Computação/IA/Claude code/Artefatos/Context-mode.md",
     "Geral/Computação/IA/Claude code/TDD com claude.md",
     "Geral/Computação/IA/Prompt/Ralph Wiggum Loop.md",
     "Geral/Computação/IA/Prompt/Prompts.md",

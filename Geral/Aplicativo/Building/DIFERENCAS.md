@@ -1,3 +1,10 @@
+---
+tags:
+  - Aplicativo
+  - computação
+---
+
+
 # AplicativoPet — Development-Ready vs Production-Ready
 
 ## Infraestrutura — containers viram serviços gerenciados
