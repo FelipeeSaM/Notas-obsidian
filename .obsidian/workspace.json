@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geral/Computação/IA/Claude code/Skills/flutter-bloc-radarpet/references/state-management.md",
+                "file": "Geral/Computação/IA/Claude code/Artefatos/prompts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "state-management"
+              "title": "prompts"
             }
           }
         ]
@@ -182,8 +182,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57d5f46fee43d1e1",
+  "active": "dafe4cf80f8e2c41",
   "lastOpenFiles": [
+    "Geral/Computação/IA/Claude code/Artefatos/skills-site.md",
+    "Geral/Computação/IA/Claude code/Artefatos/prompts.md",
+    "Geral/Computação/IA/Claude code/Artefatos/Skill-creation.md",
+    "Geral/Idiomas/Inglês/Fase 1/Simple past.md",
+    "Geral/Idiomas/Inglês/Fase 1/Past continuous.md",
+    "Geral/Idiomas/Inglês/Fase 1/Simple present.md",
+    "Geral/Idiomas/Inglês/Fase 2/Present continuous.md",
+    "Geral/Idiomas/Inglês/Fase 2/in, on, at.md",
+    "Geral/Idiomas/Inglês/Fase 2/Present perfect.md",
+    "Geral/Idiomas/Inglês/Inglês.md",
+    "Geral/Computação/IA/Claude code/Orquestrador.md",
+    "Geral/Computação/IA/Claude code/Planejamento.md",
+    "Geral/Computação/IA/Claude code/Raciocínio.md",
+    "Geral/Computação/IA/Claude code/TDD com claude.md",
+    "Geral/Computação/IA/Claude code/Sub-agents.md",
+    "Geral/Computação/IA/Claude code/Skill.md",
+    "Geral/Computação/IA/Claude code/Skills/flutter-bloc-radarpet/references/state-management.md",
     "Geral/Computação/IA/Claude code/Skills/vertical-slice-dotnet/references/postgresql-particularidades.md",
     "Geral/Computação/IA/Claude code/Skills/vertical-slice-dotnet/references/anatomia-dos-arquivos.md",
     "Geral/Computação/IA/Claude code/Skills/vertical-slice-dotnet/references",
@@ -203,23 +220,6 @@
     "Geral/Computação/IA/Claude code/Skills/aspire/references/testing.md",
     "Geral/Computação/IA/Claude code/Skills/aspire/references/patterns.md",
     "Geral/Computação/IA/Claude code/Skills/aspire/references/deployment.md",
-    "Geral/Computação/IA/Claude code/Skills/aspire/references/community-toolkit.md",
-    "Geral/Computação/IA/Claude code/Skills/aspire/SKILL.md",
-    "Geral/Computação/IA/Claude code/Skills/flutter-bloc-radarpet/references/naming-conventions.md",
-    "Geral/Computação/IA/Claude code/Skills/flutter-bloc-radarpet/references/error-handling.md",
-    "Geral/Computação/IA/Claude code/Skills/flutter-bloc-radarpet/references/api-integration.md",
-    "Geral/Computação/Linux/Scripts/fix-gpu-clock.sh.md",
-    "Geral/Computação/IA/Claude code/Skills/flutter-bloc-radarpet/references/state-management.md",
-    "Geral/Computação/IA/Claude code/Skills/flutter-bloc-radarpet/references/folder-structure.md",
-    "Geral/Computação/IA/Claude code/Skills/flutter-bloc-radarpet/SKILL.md",
-    "Geral/Computação/IA/Claude code/Skills/flutter-bloc-radarpet/RULES.md",
-    "Geral/Computação/Linux/Scripts/plasma-top-panel.sh.md",
-    "Geral/Aplicativo/Building/DIFERENCAS.md",
-    "Geral/Computação/IA/Claude code/Artefatos/Context-mode.md",
-    "Geral/Computação/IA/Claude code/Artefatos/Brainstorm.md",
-    "Geral/Computação/IA/Claude code/Artefatos/Skill-creation.md",
-    "Geral/Computação/IA/Claude code/Artefatos/Context7.md",
-    "Geral/Computação/IA/Claude code/Artefatos/Frontend-design.md",
     "Pasted image 20260520035832.png",
     "Pasted image 20260515041634.png",
     "Pasted image 20260515041650.png",
