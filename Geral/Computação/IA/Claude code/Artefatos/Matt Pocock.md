@@ -6,4 +6,5 @@ tags:
   - computação
 ---
 Dar raciocínio para a IA pensar como engenheiro de software
+Começa com o /grill-me-docs
 IA pica demais: https://github.com/mattpocock/skills
