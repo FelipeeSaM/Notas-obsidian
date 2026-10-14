@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geral/Computação/IA/Claude code/Artefatos/Matt Pocock.md",
+                "file": "Geral/Computação/Github Actions/Release.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matt Pocock"
+              "title": "Release"
             }
           }
         ]
@@ -168,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 294.69921875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,27 +184,32 @@
   },
   "active": "dafe4cf80f8e2c41",
   "lastOpenFiles": [
-    "Geral/Computação/IA/Claude code/Artefatos/Frontend-design.md",
+    "Geral/Computação/Github Actions/Github CI CD.md",
+    "Geral/Computação/Github Actions/CD.md",
+    "Geral/Computação/Github Actions/Continuous Integration YML.md",
+    "Geral/Computação/Github Actions/Release.md",
     "Geral/Computação/IA/Claude code/Artefatos/Matt Pocock.md",
+    "Geral/Computação/IA/Claude code/Artefatos/Frontend-design.md",
+    "Geral/Computação/IA/Claude code/Artefatos/Context7.md",
+    "Geral/Computação/IA/Claude code/Artefatos/Context-mode.md",
     "Geral/Computação/IA/Claude code/Artefatos/prompts.md",
-    "Geral/Computação/IA/Claude code/Artefatos/skills-site.md",
     "Geral/Computação/IA/Claude code/Artefatos/Skill-creation.md",
+    "Geral/Computação/IA/Claude code/Artefatos/Planning.md",
+    "Geral/Computação/IA/Claude code/Planejamento.md",
+    "Geral/Computação/IA/Claude code/Débito técnico.md",
+    "Geral/Computação/IA/Claude code/Comandos claude.md",
+    "Geral/Computação/IA/Claude code/Claude.md.md",
+    "Geral/Computação/IA/Claude code/Artefatos/Brainstorm.md",
+    "Geral/Computação/IA/Prompt/Engenharia de prompt.md",
+    "Geral/Computação/IA/Prompt/Prompts.md",
+    "Geral/Computação/Docker/Compose/Buildando.md",
+    "Geral/Computação/Docker/Dockerfile/ARG.md",
+    "Geral/Computação/IA/Claude code/Artefatos/skills-site.md",
     "Geral/Idiomas/Inglês/Fase 1/Simple past.md",
     "Geral/Idiomas/Inglês/Fase 1/Past continuous.md",
     "Geral/Idiomas/Inglês/Fase 1/Simple present.md",
     "Geral/Idiomas/Inglês/Fase 2/Present continuous.md",
     "Geral/Idiomas/Inglês/Fase 2/in, on, at.md",
-    "Geral/Idiomas/Inglês/Fase 2/Present perfect.md",
-    "Geral/Idiomas/Inglês/Inglês.md",
-    "Geral/Computação/IA/Claude code/Orquestrador.md",
-    "Geral/Computação/IA/Claude code/Planejamento.md",
-    "Geral/Computação/IA/Claude code/Raciocínio.md",
-    "Geral/Computação/IA/Claude code/TDD com claude.md",
-    "Geral/Computação/IA/Claude code/Sub-agents.md",
-    "Geral/Computação/IA/Claude code/Skill.md",
-    "Geral/Computação/IA/Claude code/Skills/flutter-bloc-radarpet/references/state-management.md",
-    "Geral/Computação/IA/Claude code/Skills/vertical-slice-dotnet/references/postgresql-particularidades.md",
-    "Geral/Computação/IA/Claude code/Skills/vertical-slice-dotnet/references/anatomia-dos-arquivos.md",
     "Geral/Computação/IA/Claude code/Skills/vertical-slice-dotnet/references",
     "Geral/Computação/IA/Claude code/Skills/vertical-slice-dotnet/examples/CriarPet/CriarPetValidator.cs",
     "Geral/Computação/IA/Claude code/Skills/vertical-slice-dotnet/examples/CriarPet/CriarPetTests.cs",
@@ -215,11 +220,6 @@
     "Geral/Computação/IA/Claude code/Skills/vertical-slice-dotnet/examples/BuscarUsuarioPorId/BuscarUsuarioPorIdTests.cs",
     "Geral/Computação/IA/Claude code/Skills/vertical-slice-dotnet/examples/BuscarUsuarioPorId/BuscarUsuarioPorIdQuery.cs",
     "Geral/Computação/IA/Claude code/Skills/vertical-slice-dotnet/examples/BuscarUsuarioPorId/BuscarUsuarioPorIdHandler.cs",
-    "Geral/Computação/IA/Claude code/Skills/vertical-slice-dotnet/SKILL.md",
-    "Geral/Computação/IA/Claude code/Skills/tdd-dotnet/references/patterns.md",
-    "Geral/Computação/IA/Claude code/Skills/tdd-dotnet/references/anti-patterns.md",
-    "Geral/Computação/IA/Claude code/Skills/tdd-dotnet/SKILL.md",
-    "Geral/Computação/IA/Claude code/Skills/aspire/references/testing.md",
     "Pasted image 20260520035832.png",
     "Pasted image 20260515041634.png",
     "Pasted image 20260515041650.png",
