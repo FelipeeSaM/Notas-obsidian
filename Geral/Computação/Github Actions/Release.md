@@ -3,6 +3,8 @@ tags:
   - github
   - computação
 ---
+# Explicação sobre como fazer release
+
 Vou te explicar isso com bastante calma, passo a passo, como se você nunca tivesse feito isso antes. Antes de mais nada, dei uma olhada no seu repositório (FelipeeSaM/SincronizadorPdf) para já te contextualizar com o que existe lá hoje.
 
 O que é uma "release" (pensando bem simples)
